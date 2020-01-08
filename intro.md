@@ -33,4 +33,6 @@ The world is full of information and people passionate about geospatial data and
 Want to connect to like-minded people or chat about your favourite topic? Apart from national associations there are many online communities where everybody can get in touch with map lovers and GIS enthusiasts. 
 
 ### Conferences 
-TODO
+::: danger TODO
+This part is under construction!
+:::
