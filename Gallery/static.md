@@ -1,0 +1,1 @@
+https://www.panoramaresort.com/while-you-are-here/trail-map/
