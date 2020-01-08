@@ -23,6 +23,10 @@ An important cartographic technique used in line symbolization is the casing, wh
 ## Isopleth Maps 
 In isoplet maps isolines are used connecting points of the same value. 
 
+::: danger TODO
+This part  is under construction!
+:::
+
 ### References
 - Brewer, C. A., 2016. *Designing better maps - A guide for GIS users*. 2nd Edition ed. Redlands: Esri Press.
 - Dent, B. D., Torguson, J. S. & Hodler, T. W., 2009. *Cartography - Thematic Map Design*. 6th Edition ed. New York: McGraw-Hill.

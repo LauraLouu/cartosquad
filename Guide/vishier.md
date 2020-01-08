@@ -1,6 +1,7 @@
-
 # Visual Hierarchy 
-
+::: danger TODO
+This site is under construction!
+:::
 ## Figure-Ground Effect 
 
 Peterson (2015) also speaks about the figure-ground rule, where certain objects need to be separated from its surroundings although the task of the background is to guarantee geographic context, which is as important as emphasizing the foreground. The author as well as Traun (2016) mention examples such as contrasting colors, or border highlighting and later on speaks more detailed about contrast explaining that high saturated colored objects shift the viewer’s focus to the important object in the foreground separating it from the opposing saturated background.

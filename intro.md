@@ -5,10 +5,10 @@ Welcome to my personal notebook with everything about cartography and maps!
 
 While being active as a cartographer and studying cartography many interesting resources, blogs, tools and guides have been found which this collection consists of. While keeping it clear, it is hard to not loose overview so that I created this documentation. It is mostly filled with external links to further sites to find information and assets but also serves as a documentation or note pad for techniques and principles regarding map visualizations and development. 
 
-The content is collaborated through scientific research (having a Master's degree in Cartography certainly set the stone), shared content by communities and own research. Every extern source is linked back to give credit to the content creator.
+The content is collaborated through scientific research (having a Master's degree in Cartography certainly set the stone), shared content by communities and own research. Every extern source is linked back to give credit to the content creator. 
 
-::: tip
-Feel free to me for tips, feedback & critique, or missing information at laura[@]cartosquad.com :v:
+::: tip DISCLAIMER
+I DO NOT guarantee the correctness of the content, as it is my personal research and interpretation of the information. Feel free to contact me for tips, feedback & critique, or missing information at [GitHub/LauraLouu](https://github.com/LauraLouu). :v:
 :::
 
 ## What you can find

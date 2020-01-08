@@ -105,7 +105,9 @@ Based on historical paintings color palettes are created that describe them.
 
 ## Color Palettes Collection
 A collection of usable color palettes on maps are found [here](/Guide/colorramps)
-
+::: danger TODO
+This part is under construction!
+:::
 
 ### References
 - Axis Maps. *[Using Colors on Maps](https://www.axismaps.com/guide/general/using-colors-on-maps/)* (accessed 15 Aug 2019). 

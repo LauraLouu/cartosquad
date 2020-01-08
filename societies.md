@@ -97,3 +97,7 @@ Coming from an interesting newsletter, a community shares their findings of map 
 ## Discord 
 
 Fantasymaps 
+
+::: danger TODO
+This part is under construction!
+:::

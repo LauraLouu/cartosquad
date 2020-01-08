@@ -7,6 +7,8 @@ There is no universal or standardized symbol system established as of now but so
 
 Based on [Visual Variables](/Guide/visvar.html), certain cartographic principles exist to ensure best readability and understanding. 
 
-
+::: danger TODO
+This site is under construction!
+:::
 ### References 
 - Tyner, J. A., 1992. *Introduction to Thematic Cartography*. New Jersey: Prentice-Hall Inc. 

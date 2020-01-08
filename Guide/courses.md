@@ -1,6 +1,10 @@
 # Collection: Guides, Tips & Tutorials 
 You want to learn how to use geo data and create interesting content? There are various resources available on the web. The links listed on this page have not been fully tested but considered as helpful. 
 
+::: danger TODO
+This site is under construction!
+:::
+
 ## Guides
 - [GIS Wiki](http://wiki.gis.com/wiki/index.php/Main_Page)
 - [Axis maps Cartography Guide](https://www.axismaps.com/guide/)

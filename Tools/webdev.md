@@ -103,14 +103,9 @@ Mapbender is an **open-source** content management system (CMS) focussing on map
 ![#355834](https://placehold.it/12/355834/000000?text=+) [Worldmap](https://worldmap.harvard.edu/)  
 Developed by the Center of Geographic Analysis (Harvard University) Worldmap is an **open-source** web mapping framework (_currently under construction_) to support educational purposes and research. It renders and displays geospatial data in a web map interface. 
 
-
-
 ::: tip
 An interesting blog post about the comparison of web mapping frameworks as mentioned above can be found on [Digital Geography: "Create Maps online: A Comparison of 6 webmap providers" (2015)](http://www.digital-geography.com/create-maps-online-a-comparison-webmap-providers/)!
 :::
-
-
-
 
 ## Base map style providers and custom styles
 
@@ -130,5 +125,7 @@ The three default base map style specifications of Carto (_Voyager, Positron and
 With Mapzen's **open-sourced** Tangram users have control of their own map style using vector data available for web maps (_Tangram JS_) and mobile apps (_Tangram ES_). 
 
 ## Geoportal Content Management Systems 
-
+ ::: danger TODO
+This part is under construction!
+:::
 Masterportal 

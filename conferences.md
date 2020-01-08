@@ -1,21 +1,11 @@
 # Conferences
-Keep uo to date what is going on in the business and scientific world of cartography. GIS and cartography relevant conferences to meet up.
+Keep up to date what is going on in the business and scientific world of cartography. GIS and cartography relevant conferences to meet up.
 
 ::: tip CALENDARS 
 [Geoinformatics Events](http://geoinformatics.com/events-geo/)  
 [Open Data Calendar](https://www.opendatacalendar.com/)
-
 :::
 
-## 2019
-
-   Name   |   Date   |      |   Location      | 
- -------- | :------: | :--: | :-------------: |
- **[INTERGEO](https://www.intergeo.de/)** | 17 - 19 Sep | :de: | Stuttgart, Germany |
- [Asian Conference on Remote Sensing (ACRS)](http://www.acrs2019.org/) | 14 - 18 Oct | :kr: | Daejeon, South Korea |
- [International Scientific and Technical Conference “From imagery to digital reality: ERS & Photogrammetry”](http://conf.racurs.ru/conf2019/eng/) | 28 - 31 Oct | :kr: | Seoul, South Korea |
- [Esri European Developer Summit](https://www.esri.com/en-us/about/events/devsummit-europe/overview) | 04 - 06 Nov | :de: | Berlin, Germany | 
- [LBS2019](https://lbsconference.org/) | 11 - 13 Nov | AT | Vienna, Austria | 
 
 ## 2020
 |   Name   |   Date   |      |  Location       | 

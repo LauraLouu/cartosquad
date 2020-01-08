@@ -1,6 +1,8 @@
 
 # Color palettes collection
-
+ ::: danger TODO
+This site is under construction!
+:::
 ## color-hex
 Chosen color schemes in the table below are from [color-hex](https://www.color-hex.com/color-palettes/).
 

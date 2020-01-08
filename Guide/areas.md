@@ -33,6 +33,9 @@ Chloropleth maps show areas symbolized by a color progression depicting a contin
 ## Cartograms
 Cartograms visualize data of an area by distorting geographic areas based on a variable related to that area.
 
+::: danger TODO
+This site is under construction!
+:::
 
 ### References
 - Brewer, C. A., 2016. *Designing better maps - A guide for GIS users*. 2nd Edition ed. Redlands: Esri Press.

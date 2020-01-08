@@ -27,6 +27,9 @@ If point symbols are overlapping and it must stay conserved, it is advisable to 
 Often changes regarding the orientation of point symbols are hard to see due to the small size of point features, but there are cases, when orientation can be effectively applied on point symbols: wind or current direction on a meteorological map, temporal data (time of a day) or political orientation (left or right leaning) are some examples. 
 
 ## Proportional Symbols
+::: danger TODO
+This site is under construction!
+:::
 
 ## Dot Density Maps
 
