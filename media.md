@@ -29,14 +29,14 @@ Latest news, product reviews, events and job findings inside the GIS industry ar
 [GIS News](http://www.gis-news.de/) (:gb: / :de:)  
 Interesting articles and reviews around the topics of GIS and IT. 
 
-[Cartonerd](http://cartonerd.blogspot.com/)
+[Cartonerd](http://cartonerd.blogspot.com/)  
 A blog about maps. 
 
 [FreeGeographyTools](https://freegeographytools.com/)  
 With focus on free tools for GIS and geospatial related services, there are also interesting blog posts given, e.g. book reviews, tutorials and more. 
 
 [Gretchen Peterson](https://www.gretchenpeterson.com/)  
-The author of many resourceful books (listed as sources in other sections) also has blog talking about various things.
+The author of many resourceful books (listed as sources in other sections) also has a blog talking about various things.
 
 [GIS Ninja](http://gisninja.blogspot.com/)  
 M. Brooks, cartographer from New Zealand, shares her insights on different cartographic topics. It has not been recently updated but a few articles are highly interesting!

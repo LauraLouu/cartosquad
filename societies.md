@@ -76,7 +76,7 @@ Often used for technical advice there are also discussion to news, jobs and more
 [r/mapporn](http://reddit.com/r/mapporn)  
 A collection of beautiful maps found on the internet.
 
-[r/mapswithoutnewzealand](http://reddit.com/r/mapswithoutnewzealand) 
+[r/mapswithoutnewzealand](http://reddit.com/r/mapswithoutnewzealand)  
 It's unbelievable how many maps forget to include NZ! Here is a collection of the worst.
 
 [r/mapmaking](http://reddit.com/r/mapmaking) & [r/imaginarymaps](http://reddit.com/r/imaginarymaps)  

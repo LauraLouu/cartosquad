@@ -68,9 +68,9 @@ module.exports = {
                     ['/Tools/online', 'Useful online tools to help in small tasks']
                 ]
             },
-            ['https://lauralouu.github.io/OpenDataPortal/', 'Open Data Map (in progress)'],
+            /*['https://lauralouu.github.io/OpenDataPortal/', 'Open Data Map (in progress)'],
 
-            /*{
+            {
                 title: 'Open Data Providers',
                 collapsable: true,
                 children: [
