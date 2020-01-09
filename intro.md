@@ -20,8 +20,8 @@ Here are information collected that is basic knowledge but important to not forg
 ### Tools & Software
 There are so many softwares and applications out there, specifically designed to support your task! From Desktop GIS to online data converter services. 
 
-### Open Data Map
-So this map is still **in progress** as it turns out to be a huge task to fulfill. What I aim to achieve is an overview of geospatial open data providers corresponding to their location or geographical extent of their data. 
+<!--### Open Data Map
+So this map is still **in progress** as it turns out to be a huge task to fulfill. What I aim to achieve is an overview of geospatial open data providers corresponding to their location or geographical extent of their data. -->
 
 ### Map Gallery
 The map gallery is a collection of **my** favourite maps highlighting what I like about it and of course linking the author. So as this is highly subjective I love to discover all sorts of maps.

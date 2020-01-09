@@ -4,6 +4,11 @@
 
 Cartographers should pay special attention to match a design between the different symbols as the smallest details can change how the geographical data is interpreted. The individual feature groups demand a different combination of Bertin’s visual variables (see below). J. Bertin proposed these variables in 1983 to differentiate the symbols by values and characteristics they represent. Often other variables such as spacing, focus, and arrangement are mentioned. As for shading and transparency are often used to develop a feeling of a third dimension, as shadows enhance immersion creating a contrast between object and background and inviting the user to click on it. Transparency on the other hand often occurs when objects are “faded out” to cease distraction and let the user focus on other information.
 
+
+::: danger TODO
+This part is under construction!
+:::
+
 ## Characteristics
 When considering styling an object with these variables, the purpose should be considered. Depending on that, some variables are more suited than others. Characteristic supporting certein purposes are:
 

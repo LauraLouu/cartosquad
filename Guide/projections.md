@@ -121,6 +121,7 @@ EPSG codes not only refer to coordinate reference systems but can also hold info
 For further reading have a look at [Choosing a projection](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/lecture04/concepts/Map%20coordinate%20systems/How%20to%20choose%20a%20projection.htm) and [Guide to Selecting Map Projections](http://www.manifold.net/doc/mfd9/guide_to_selecting_map_projections.htm).
 :::
 
+
 ### Continents 
 | Georeferencing | EPSG Code |
 |----|---|
@@ -175,6 +176,10 @@ see [Land Information New Zealand: Projections](https://www.linz.govt.nz/data/ge
 |----|---|
 
 TODO: State Plane Coordinate System, United States National Grid
+
+::: danger TODO
+This part is under construction!
+:::
 
 ## Useful Tools 
 - [Projection Wizard](http://projectionwizard.org/) lets you define an area and suggests projections based on the selected area!
