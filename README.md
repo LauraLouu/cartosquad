@@ -10,6 +10,6 @@ features:
   details: The content is collaborated through scientific research (having a Master's degree in Cartography certainly set the stone), shared content by communities and own research. Every extern source is linked back to give credit to the content creator. While I do not guarantee the correctness of the information, I appreciate any feedback and tips, if something is wrong or misinterpreted. Feel free to contact me! 
 - title: Easy Access
   details: All information is bundled in an easy access static page, to find the desired content at a glance.
-footer: [LauraLou](https://www.laura-lou.com) | Site built with VuePress
+footer: Site built with VuePress
 ---
 
