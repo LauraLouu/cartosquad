@@ -14,10 +14,12 @@ I DO NOT guarantee the correctness of the content, as it is my personal research
 ## What you can find
 As seen in the sidebar to the left there are various chapters dedicated to the different topics regarding map making and geo data. 
 
-<img src="/assets/img/guide.png" align="left" size="150" />
+![Guide](/assets/img/guide.png)
 
 ### Cartography Guides
 Here are information collected that is basic knowledge but important to not forget when making maps. Color combinations, font pairings, the selection of projections and data visualisations are introduced and illustrated. Last a collaboration of other resources offering tips and guides is given. 
+
+![Tools](/assets/img/tools.png)
 
 ### Tools & Software
 There are so many softwares and applications out there, specifically designed to support your task! From Desktop GIS to online data converter services. 
@@ -25,11 +27,17 @@ There are so many softwares and applications out there, specifically designed to
 <!--### Open Data Map
 So this map is still **in progress** as it turns out to be a huge task to fulfill. What I aim to achieve is an overview of geospatial open data providers corresponding to their location or geographical extent of their data. -->
 
+![Gallery](/assets/img/gallery.png)
+
 ### Map Gallery
 The map gallery is a collection of **my** favourite maps highlighting what I like about it and of course linking the author. So as this is highly subjective I love to discover all sorts of maps.
 
+![Media](/assets/img/media.png)
+
 ### Cartography Media 
 The world is full of information and people passionate about geospatial data and map making. While compiling different notes of blogs, books, etc. I stumbled into a rabbit hole. So many projects, so much information. 
+
+![Social](/assets/img/social.png)
 
 ### Societies & Communities
 Want to connect to like-minded people or chat about your favourite topic? Apart from national associations there are many online communities where everybody can get in touch with map lovers and GIS enthusiasts. 
