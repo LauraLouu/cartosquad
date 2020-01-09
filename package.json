@@ -1,24 +1,24 @@
 {
-  "name": "cartolio",
-  "version": "1.0.0",
-  "description": "Welcome to my personal notebook with everything about cartography and maps!",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-       "docs:build": "vuepress build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LauraLouu/cartolio.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/LauraLouu/cartolio/issues"
-  },
-  "homepage": "https://github.com/LauraLouu/cartolio#readme",
-     "dependencies": {
-    "vuepress": "^1.0.3"
- }
+    "name": "cartolio",
+    "version": "1.0.0",
+    "description": "Welcome to my personal notebook with everything about cartography and maps!",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "docs:build": "vuepress build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LauraLouu/cartosquad.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/LauraLouu/cartosquad/issues"
+    },
+    "homepage": "https://github.com/LauraLouu/cartosquad#readme",
+    "dependencies": {
+        "vuepress": "^1.0.3"
+    }
 }
