@@ -23,6 +23,9 @@ Daniel Huffman is a cartographer and highlights interesting views on techniques,
 [GIS for thought](https://gisforthought.com/portfolio/)  
 A blog about GIS, cartography and remote sensing. 
 
+[Adventures in Mapping](https://adventuresinmapping.com/)  
+Useful tricks and mapping hacks on a simple blog. 
+
 [GISCafé](http://www.giscafe.com/)  (:gb: / :es:)  
 Latest news, product reviews, events and job findings inside the GIS industry are found here. 
 
@@ -134,6 +137,7 @@ Robin Hawkes puts together a bi-weekly issue of map related content collaborated
 - Cindy Brewer: [Designing Better Maps: A Guide for GIS Users](https://www.amazon.com/dp/1589484401/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687662&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=1589480899&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=WB8CEBHTTVSVWQMQJ08R)
 - Ian Muehlenhaus: [Web Cartography: Map Design for Interactive and Mobile Devices](https://www.amazon.com/Web-Cartography-Design-Interactive-Devices/dp/1439876223/ref=sr_1_1?ie=UTF8&qid=1426689794&sr=8-1&keywords=ian+muehlenhaus)
 - Dent, Torgusen, Hodler: [Cartography: Thematic Map Design](https://www.amazon.com/gp/product/0072943823/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0072943823&linkCode=as2&tag=pe03-20)
+- Kollektiv Orangotango+: [This is not an Atlas](https://notanatlas.org/book/) **Open Access**
 
 ## Magazines & Journals
 Many official and scientific journals are published by [National Cartographic Societies](/societies.html#national-societies). 
@@ -198,9 +202,36 @@ The following portfolio list some impressive work from fellow cartographers and 
 - [Ryan Allison - GIS Portfolio](https://sites.google.com/site/rallison231ewugis/)
 - [Benjamin Bauman](https://www.benjaminbauman.net/)
 - [Dr. Olaf Schnabel](http://oschnabel.carto.net/#portfolio)
+- [MapStyle](http://mapstyle.ign.fr/)
 
 ::: tip
 Want to make your own GIS / cartography portfolio? Have a look at this [brief discussion on reddit](https://www.reddit.com/r/gis/comments/57k838/best_platform_for_a_professional_gis/) for platform suggestions. 
 :::
 
 
+## Quotes 
+This is just a fun section to collect (funny) quotes around the topic of maps and cartography. I first saw this in Krygier & Wood's *Making Maps - A visual Guide to Map Design for GIS* and would like to continue this idea. 
+
+> A map says to you, "Read me carefully, follow me closely, doubt me not." It says, "I am the earth in the palm of your hand. Without me, you are alone and lost."  
+	- Beyl Markham, West with the Night, 1942
+
+> The map isn't allowed to get too crazy.  
+	- Deniz Wood, 2014
+
+> Men can read maps better than women 'cause only the male mind could conceive of one inch equaling a hundred miles.  
+	- Roseanne Barr
+
+> According to this map we've only gone 4 inches.  
+	- Harry Dunne, Dumb and Dumber, 1994
+
+> Kim: You suck at drawing, don't you?  
+Scott: Maps are hard! I could draw it really good if it was a sheep.   
+	- Bryan Lee O'Malley, Scott Pilgrim vs. The World, 2005
+
+> Borders are scratched across the hearts of men  
+By strangers with a calm, judical pen,  
+And when the borders bleed we watch with dread  
+The lines of ink across the map turn red.  
+	- Marya Mannes, Subverse: Rhymes for Our Times, 1959
+
+> In the sense that all maps tell white lies about the planet, small-scale maps have a smaller capacity for truth than large-scale maps. 

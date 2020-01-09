@@ -2,7 +2,7 @@
 If you want to create an application for the web using geographic data there are certain JavaScript libraries and plugins that enable possibilites to create engaging projects. 
 
 __Loose indication of licencing:__  
-_(Please be sure to check the individual licences! We assume no liability!)_  
+_(Please be sure to check the individual licences! I assume no liability!)_  
 ![#355834](https://placehold.it/12/355834/000000?text=+) open-source  
 ![#7ab079](https://placehold.it/12/7ab079/000000?text=+) APIkey or sign up required / free usage until certain number of requests  
 ![#d9e8d9](https://placehold.it/12/d9e8d9/000000?text=+) paid service 
@@ -58,12 +58,12 @@ The JavaScript library is using WebGl to display vector tiles and data in intera
 ![#d9e8d9](https://placehold.it/12/d9e8d9/000000?text=+) [Carto](https://carto.com/)  
 Similar to Mapbox, Carto offers a platform with many solutions for different geospatial tasks. 
 
-[Odyssey JS](https://cartodb.github.io/odyssey.js/)  
+![#355834](https://placehold.it/12/355834/000000?text=+) [Odyssey JS](https://cartodb.github.io/odyssey.js/)  
 Developed by Carto odyssey offers an easy way to forge an engaging story combining content (text, video, images) and web maps. An interesting tutorial can be found on [Digital Geography: "Odyssey.js: your easy story mapping engine" (2014)](http://www.digital-geography.com/odyssey-js-easy-story-mapping-engine/). 
 
 ### Other
-[Flourish](https://flourish.studio/)
-
+![#7ab079](https://placehold.it/12/7ab079/000000?text=+) [Flourish](https://flourish.studio/)  
+A web tool to turn spreadsheets into modern data visualizations. 
 
 ![#7ab079](https://placehold.it/12/7ab079/000000?text=+) [Maptiler](https://www.maptiler.com/)  
 The creation of map prooducts is supported by MapTiler's different solution be it vector data for creating vector tiles, map hosting or application development for web and mobile. 
@@ -75,7 +75,7 @@ A service provided to visualize location-based data on any platform or OS. It is
 SimpleMappr is an RESTful API to render **free** raster maps suitable for reproduction and publications. 
 
 ![#d9e8d9](https://placehold.it/12/d9e8d9/000000?text=+) [Mangomap](https://mangomap.com/)  
-Mango is a plattform to visualize and provide easy access to geospatial data in a WebGIS interfaces. 
+Mango is a to visualize and provide easy access to geospatial data in a WebGIS interfaces. 
 
 ![#7ab079](https://placehold.it/12/7ab079/000000?text=+) [Click2Map](https://www.click2map.com/)  
 Click2Map is yet another platform to create custim map applications for web and mobile. 
@@ -124,8 +124,15 @@ The three default base map style specifications of Carto (_Voyager, Positron and
 [Mapzen Tangram](https://www.mapzen.com/products/tangram/)  
 With Mapzen's **open-sourced** Tangram users have control of their own map style using vector data available for web maps (_Tangram JS_) and mobile apps (_Tangram ES_). 
 
-## Geoportal Content Management Systems 
+## Content Management Systems 
  ::: danger TODO
 This part is under construction!
 :::
 Masterportal 
+
+BlueSpice Wiki
+Wiki.js
+
+https://www.scribblemaps.com/
+
+https://www.stepmap.de/
