@@ -50,6 +50,7 @@ Want to connect to like-minded people or chat about your favourite topic? Apart 
 <p style="clear:both;"></p>
 
 ### Conferences 
-::: danger TODO
-This part is under construction!
-:::
+<img src="/assets/img/conference.png" width="100" height="100" style="float: right; margin: 0px 15px 15px 15px;" />
+
+Conferences are important to stay up to date with the development of technology and practices and give opportunity to network in the industry and research. A collection of regularly organized conferences and meet ups is listed in this section. 
+<p style="clear:both;"></p>
