@@ -21,7 +21,7 @@ The **free** online tool provides an easy way to convert WMS and WFS layers to d
 
 
 
-# Misc
+## Misc
 
 [Datawrapper](https://www.datawrapper.de/)  
 
@@ -33,5 +33,5 @@ The collection of vocabularies provides geographical names to improve terminolog
 
 
 
-# Non-Cartography 
+## Non-Cartography 
 These tool are more focused on design but turned out to be useful for certain map making techniques. 

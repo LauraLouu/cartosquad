@@ -16,6 +16,8 @@ As seen in the sidebar to the left there are various chapters dedicated to the d
 
 ![Guide](/assets/img/guide.png)
 
+<img src="./assets/img/guide.png" width="100" height="100">
+
 ### Cartography Guides
 Here are information collected that is basic knowledge but important to not forget when making maps. Color combinations, font pairings, the selection of projections and data visualisations are introduced and illustrated. Last a collaboration of other resources offering tips and guides is given. 
 
