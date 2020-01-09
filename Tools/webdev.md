@@ -125,14 +125,12 @@ The three default base map style specifications of Carto (_Voyager, Positron and
 With Mapzen's **open-sourced** Tangram users have control of their own map style using vector data available for web maps (_Tangram JS_) and mobile apps (_Tangram ES_). 
 
 ## Content Management Systems 
- ::: danger TODO
-This part is under construction!
-:::
-Masterportal 
+![#355834](https://placehold.it/12/355834/000000?text=+) [Masterportal](https://www.masterportal.org/)  
+Masterportal is an __open source__ Geoportal with many features that make it a great tool for displaying and providing geospatial data. 
 
-BlueSpice Wiki
-Wiki.js
+![#355834](https://placehold.it/12/355834/000000?text=+) [BlueSpice Wiki](https://bluespice.com/)  
+A responsive and dynamic Wiki based on MediaWiki to manage documentations of any kind. 
 
-https://www.scribblemaps.com/
+![#355834](https://placehold.it/12/355834/000000?text=+) [Wiki.js](https://wiki.js.org/)  
+This __open source__ wiki lets features many useful modules and lets you easily document in an appealing interface and management. 
 
-https://www.stepmap.de/
