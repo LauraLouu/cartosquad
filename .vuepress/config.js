@@ -5,22 +5,22 @@ module.exports = {
         lineNumbers: true
     },
     head: [
-         ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/assets/img/favicons/apple-touch-icon.png"}],
-    ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/assets/img/favicons/favicon-32x32.png"}],
-    ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/assets/img/favicons/favicon-16x16.png"}],
-    
+        ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/assets/img/favicons/apple-touch-icon.png" }],
+        ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/assets/img/favicons/favicon-32x32.png" }],
+        ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/assets/img/favicons/favicon-16x16.png" }],
+        ['link', { rel: "mask-icon", color: "#432e36", href: "/assets/img/favicons/safari-pinned-tab.svg" }],
+
     ],
     plugins: {
-      '@vuepress/medium-zoom': {
-          selector: '.theme-default-content :not(a) > img'
-      },
+        '@vuepress/medium-zoom': {
+            selector: '.theme-default-content :not(a) > img'
+        },
         '@vuepress/back-to-top': true
     },
     themeConfig: {
         logo: '/assets/img/logo.png',
         lastUpdated: 'Last Updated',
-        nav: [
-            {
+        nav: [{
                 text: 'Introduction',
                 link: '/intro'
             }, {
@@ -31,46 +31,44 @@ module.exports = {
                 text: 'About & Contact',
                 link: '/about'
             }
-            ],
-        sidebar: [
-            {
+        ],
+        sidebar: [{
                 title: 'Cartography Guides',
                 collapsable: true,
                 children: [
-          // '/Guide/',
-            '/Guide/color', 
-            ['/Guide/typeface', 'Font on maps'],
-            '/Guide/visvar',
-            '/Guide/classification',
-            { title: 'Map Symbolizations',
-             path:'/Guide/symbols',
-                collapsable: false,
-                children: [
-                    '/Guide/points',
-                    '/Guide/lines',
-                    '/Guide/areas', 
-                    '/Guide/terrain', 
-                    '/Guide/3d', 
-                    '/Guide/temporalAnimation' 
-                    ]
+                    // '/Guide/',
+                    '/Guide/color', ['/Guide/typeface', 'Font on maps'],
+                    '/Guide/visvar',
+                    '/Guide/classification',
+                    {
+                        title: 'Map Symbolizations',
+                        path: '/Guide/symbols',
+                        collapsable: false,
+                        children: [
+                            '/Guide/points',
+                            '/Guide/lines',
+                            '/Guide/areas',
+                            '/Guide/terrain',
+                            '/Guide/3d',
+                            '/Guide/temporalAnimation'
+                        ]
                     },
-            '/Guide/vishier', 
-            ['/Guide/basemap', 'Basemap Design'],
-            '/Guide/projections', 
-            '/Guide/gen', 
-            ['/Guide/examples', 'Good & Bad Map Examples'],
+                    '/Guide/vishier', ['/Guide/basemap', 'Basemap Design'],
+                    '/Guide/projections',
+                    '/Guide/gen', ['/Guide/examples', 'Good & Bad Map Examples'],
                     '/Guide/ownTuts',
                     '/Guide/courses'
-        ]
-      }, {
+                ]
+            }, {
                 title: 'Tools & Software',
                 collapsable: true,
                 children: [
-            ['/Tools/software', 'Desktop software'],
-            ['/Tools/webdev', 'Web development'],
-            ['/Tools/online', 'Useful online tools to help in small tasks']
-        ]
-      },['https://lauralouu.github.io/OpenDataPortal/', 'Open Data Map (in progress)'],
+                    ['/Tools/software', 'Desktop software'],
+                    ['/Tools/webdev', 'Web development'],
+                    ['/Tools/online', 'Useful online tools to help in small tasks']
+                ]
+            },
+            ['https://lauralouu.github.io/OpenDataPortal/', 'Open Data Map (in progress)'],
 
             /*{
                 title: 'Open Data Providers',
@@ -93,10 +91,10 @@ module.exports = {
                     ['/Gallery/design', 'Artistic Maps'],
                     ['/Gallery/product', 'Map related products']
                 ]
-        },
+            },
             ['/media', 'Cartography Media'],
             ['/societies', 'Societies & Communities'],
-        '/conferences'
+            '/conferences'
         ]
     }
 }
