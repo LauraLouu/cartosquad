@@ -208,6 +208,9 @@ The following portfolio list some impressive work from fellow cartographers and 
 Want to make your own GIS / cartography portfolio? Have a look at this [brief discussion on reddit](https://www.reddit.com/r/gis/comments/57k838/best_platform_for_a_professional_gis/) for platform suggestions. 
 :::
 
+## Other
+
+- [MapShakers](http://mapshakers.com/)
 
 ## Quotes 
 This is just a fun section to collect (funny) quotes around the topic of maps and cartography. I first saw this in Krygier & Wood's *Making Maps - A visual Guide to Map Design for GIS* and would like to continue this idea. 

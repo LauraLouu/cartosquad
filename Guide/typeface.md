@@ -77,7 +77,18 @@ Regarding the color, the outline should be set in the color of the background or
 This part is under construction!
 :::
 
-## Tools 
+### Label Characteristics 
+- spacing 
+- capital
+- size
+- font style
+- width
+- underline
+- color
+- font type
+- texture
+
+## Ressources 
 
 ### Download Fonts
 - [Dafont](http://dafont.com)
@@ -94,8 +105,15 @@ This part is under construction!
 
 ### Games to train your Font Skills
 
+- [Type Connection](http://www.typeconnection.com/): train your skills of font pairing with this game. 
+- [Kern Type](https://type.method.ac/): push letters around until a pleasing and readable text is achieved.
+- [Shape Type](https://shape.method.ac/): drag outlines to create proportionally shaped letters.
+- [The Rather difficult Font Game](https://fontgame.ilovetypography.com/): identify the fonts used.
+- [Shoot the Serif](https://www.tothepoint.co.uk/us/fun/i-shot-the-serif/): An app to have to eliminate the serif characters.
+- [Type War](http://typewar.com): identify a font by choosing one of two.  
+
 ### References
-- Axis Maps. *Labeling and text hierarchy in cartography*. https://www.axismaps.com/guide/general/labeling/ (accessed 15 Aug 2019). 
+- Axis Maps. *[Labeling and text hierarchy in cartography]( https://www.axismaps.com/guide/general/labeling/ )* (accessed 15 Aug 2019). 
 - Brewer, C. A., 2016. *Designing better maps - A guide for GIS users*. 2nd Edition ed. Redlands: Esri Press.
 - Dent, B. D., Torguson, J. S. & Hodler, T. W., 2009. *Cartography - Thematic Map Design*. 6th Edition ed. New York: McGraw-Hill.
 - Kraak, M.-J. & Ormeling, F., 2003. *Cartography - Visualization of Geospatial Data*. 2nd Edition ed. Essex: Pearson Education Limited.
@@ -103,4 +121,5 @@ This part is under construction!
 - Muehlenhaus, I., 2014. *Web Cartography*. Boca Raton: CRC Press.
 - Peterson, G. N., 2015. *GIS Cartography*. 2nd Edition ed. Boca Raton: CRC Press.
 - Peterson, G. N., 2012. *Cartographer's Toolkit - Colours, Typography, Patterns*. Fort Collins: PetersonGIS.
-- Tyner, J. A., 2010. *Principles of Map Design*. New York: Guilford Press.
+- Tyner, J. A., 2010. *Principles of Map Design*. New York: Guilford Press.?
+- 2006. *[Cartographic Visualisation in GIS](http://uhulag.mendelu.cz/files/pagesdata/eng/socrates_ip/teaching_materials/cartography.pdf)*, College of Geoinformatics - University of Hungary. (accessed 10. Jan 2020). 

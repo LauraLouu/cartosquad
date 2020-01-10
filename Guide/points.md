@@ -35,6 +35,11 @@ This site is under construction!
 
 ## Diagrams
 
+## Firefly Maps
+
+
+## Ressources
+- [MapkeyIcons](http://mapkeyicons.com/)
 ### References
 - Brewer, C. A., 2016. *Designing better maps - A guide for GIS users*. 2nd Edition ed. Redlands: Esri Press.
 - Dent, B. D., Torguson, J. S. & Hodler, T. W., 2009. *Cartography - Thematic Map Design*. 6th Edition ed. New York: McGraw-Hill.

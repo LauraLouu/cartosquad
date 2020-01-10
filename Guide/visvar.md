@@ -74,14 +74,14 @@ When considering styling an object with these variables, the purpose should be c
 
 
 ### References
-- Axis Maps. *Visual Hierarchy*. https://www.axismaps.com/guide/general/visual-hierarchy/ (accessed 14 Aug 2019).
+- Axis Maps. *[Visual Hierarchy](https://www.axismaps.com/guide/general/visual-hierarchy/)* (accessed 14 Aug 2019).
 - Brewer, C. A., 2016. *Designing better maps - A guide for GIS users*. 2nd Edition ed. Redlands: Esri Press.
 - Dent, B. D., Torguson, J. S. & Hodler, T. W., 2009. *Cartography - Thematic Map Design*. 6th Edition ed. New York: McGraw-Hill.
 - Kraak, M.-J. & Ormeling, F., 2003. *Cartography - Visualization of Geospatial Data*. 2nd Edition ed. Essex: Pearson Education Limited.
 - Krygier, J. & Wood, D., 2016. *Making Maps - A visual Guide to Map Design for GIS*. 3rd Edition ed. s.l.:Guilford Publications.
 - Muehlenhaus, I., 2014. *Web Cartography*. Boca Raton: CRC Press.
-- Olaya, Victor (2018). *Introduction to GIS*. https://volaya.github.io/gis-book/en/gisbook.pdf (accessed 14 Aug 2019).
+- Olaya, Victor (2018). *[Introduction to GIS](https://volaya.github.io/gis-book/en/gisbook.pdf)* (accessed 14 Aug 2019).
 - Roth, Robert. (2017). *Visual Variables*. 10.1002/9781118786352.wbieg0761. 
 - Slocum, T. A., McMaster, R. B., Kessler, F. C. & Howard, H. H., 2009. *Thematic Cartography and Geovisualization*. 3rd Edition ed. Upper Saddle River(NJ): Daniel Kaveney.
 - Tyner, J. A., 2010. *Principles of Map Design*. New York: Guilford Press.
-- UCGIS. *CV-08 - Symbolization and the Visual Variables*. https://gistbok.ucgis.org/bok-topics/symbolization-and-visual-variables (accessed 14 Aug 2019).
+- UCGIS. *[CV-08 - Symbolization and the Visual Variables](https://gistbok.ucgis.org/bok-topics/symbolization-and-visual-variables)* (accessed 14 Aug 2019).

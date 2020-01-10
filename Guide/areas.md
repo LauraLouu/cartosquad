@@ -36,6 +36,8 @@ Cartograms visualize data of an area by distorting geographic areas based on a t
 This site is under construction!
 :::
 
+## Isochrones 
+
 ### References
 - Axis Maps. *[Bivariate Cartograms](https://www.axismaps.com/guide/multivariate/bivariate-cartograms/)* (accessed 09. Jan 2020). 
 - Axis Maps. *[Non-Contiguous Cartograms](https://www.axismaps.com/guide/univariate/cartograms/)* (accessed 09. Jan 2020). 

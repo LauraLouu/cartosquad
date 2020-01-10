@@ -27,6 +27,10 @@ In isoplet maps isolines are used connecting points of the same value.
 This part  is under construction!
 :::
 
+## Vector Direction Maps
+
+## Distributive Flow Maps
+
 ### References
 - Brewer, C. A., 2016. *Designing better maps - A guide for GIS users*. 2nd Edition ed. Redlands: Esri Press.
 - Dent, B. D., Torguson, J. S. & Hodler, T. W., 2009. *Cartography - Thematic Map Design*. 6th Edition ed. New York: McGraw-Hill.

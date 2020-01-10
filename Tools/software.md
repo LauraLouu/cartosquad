@@ -51,4 +51,4 @@ GIMP on the other hand is the open source equivalent of Adobe Photoshop. Raster 
 
 ## Other
 
-[Flex Projector](http://www.flexprojector.com/) is a freeware, cross-platform application for creating custom world map projections.
+- [Flex Projector](http://www.flexprojector.com/) is a freeware, cross-platform application for creating custom world map projections.
