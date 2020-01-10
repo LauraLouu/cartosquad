@@ -94,6 +94,7 @@ This part is under construction!
 - [Dafont](http://dafont.com)
 - [Fontspace](http://www.fontspace.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
+- [FontStruct](https://www.fontstruct.com/gallery)
 
 ### Find complementing Font Pairings
 

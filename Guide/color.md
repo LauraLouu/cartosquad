@@ -60,6 +60,8 @@ Most troublesome colors however, seem to be pure reds and greens as they are not
 **[Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/)** = Color Blindness Simulator is a useful tool to upload rendered pictures, simulate deficiencies and investigate differences with a lens tool. 
 
 **QGIS** includes a simulation plugin found in *View > Preview Mode > Simulate color blindness …*
+
+**[Vischeck](http://www.vischeck.com/)** is a simulator for color blind vision. 
 :::
 
 ### Example 
@@ -88,6 +90,9 @@ Probably one of the most used color scheme generator used by cartographers is Co
 [Bivariate Color Matrix](https://cartoscience.github.io/bivariate-color-matrix/)  
 By picking two colors a bivariate color palette is generated for chloropleth mapping, giving an indication about differentation with a minimum Delta E variable. 
 
+[Adobe Color](https://color.adobe.com/de/explore)  
+Adobe's online tool to create and explore palettes of color. 
+
 [Color picker for data](http://tristen.ca/hcl-picker/#/hlc/6/1.05/CAF270/453B52)  
 After picking a color a scheme is generated, which is also aimed for chloropleth mapping.
 
@@ -102,6 +107,12 @@ Providing a HEX color related colors are generated.
 
 [Colorleap](https://colorleap.app/time/1950)  
 Based on historical paintings color palettes are created that describe them. 
+
+[Paletton](http://paletton.com/)  
+Create color combinations and palettes that work well together.
+
+[ColourLovers](https://www.colourlovers.com/)  
+A community, that share colors, palettes and patters. 
 
 ## Color Palettes Collection
 A collection of usable color palettes on maps are found [here](/Guide/colorramps)

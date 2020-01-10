@@ -28,7 +28,7 @@ module.exports = {
                 link: '/news'
             },
             {
-                text: 'About & Contact',
+                text: 'About',
                 link: '/about'
             }
         ],

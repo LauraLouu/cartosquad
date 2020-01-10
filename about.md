@@ -13,7 +13,7 @@ The person behind this is a cartographer and passionate map lover.
 
 
 ## Origin of Name
-Cartosquad is originally the name  given by an amazing person to a group of cartography students. We were the 6th intake of the Cartography M.Sc. Erasmus programme and spent 2 years together, one semester each in Munich, Vienna and Dresden as well the last for writing our thesis. For me personally, it was the best studying experience and got to know a lot of amazing people from all around the world. I am thankful for this experience and count myself lucky to have been part of the #CARTOSQUAD16. 
+Cartosquad is originally the name  given by an amazing person to a group of cartography students. We were the 6th intake of the [Cartography M.Sc. Erasmus programme](https://cartographymaster.eu/) and spent 2 years together, one semester each in Munich, Vienna and Dresden as well the last for writing our thesis. For me personally, it was the best studying experience and got to know a lot of amazing people from all around the world. I am thankful for this experience and count myself lucky to have been part of the #CARTOSQUAD16. 
 
 
 
