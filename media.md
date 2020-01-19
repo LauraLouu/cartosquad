@@ -196,6 +196,7 @@ The following portfolio list some impressive work from fellow cartographers and 
 - [Radical Cartography](http://www.radicalcartography.net/)
 - [The Map Kiwi Portfolio](https://www.andrewdc.co.nz/my-portfolio/)  
 - [Chris Henrick Cartography](https://clhenrick.io/) [old](http://chrishenrick.com/)  
+- [Halycon Maps](https://www.halcyonmaps.com/)
 - [Jonah Adkins](https://www.jonahadkins.com/projects/)  
 - [Clare Trainor](http://www.claretrainor.com/)  
 - [Map Smith](https://mapsmith.net/)  
