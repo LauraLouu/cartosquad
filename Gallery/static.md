@@ -20,12 +20,30 @@ This site is under construction!
 ## Imaginary Maps 
 
 ### Game related Maps
-:video_game:
+::: tip Beautiful Papertowns of Bohemia
+:video_game:  Kingdom Come: Deliverance
+<img src="https://i.postimg.cc/mchMXZsR/Full-Map-Hi-Res-cut.jpg"  style="text-align:center"/>
+<p style="text-size:small; text-align:right;">:writing_hand:  [Edgecrusher420](http://laura-lou.com)</p>
+:::
+
+::: tip Beautiful Papertowns of Bohemia
+:video_game:  Kingdom Come: Deliverance
+<img src="https://i.postimg.cc/mchMXZsR/Full-Map-Hi-Res-cut.jpg"  style="text-align:center"/>
+:writing_hand:  [Edgecrusher420]()
+:::
+
+::: tip Beautiful Papertowns of Bohemia
+:video_game:  Kingdom Come: Deliverance
+<img src="https://i.postimg.cc/mchMXZsR/Full-Map-Hi-Res-cut.jpg"  style="text-align:center"/>
+<p style="text-size:small; text-align:right;">:writing_hand: <a href="https://forum.kingdomcomerpg.com/t/all-16-kingdom-come-deliverance-maps-high-resolution-no-markers/66445" target="_blank">Edgecrusher420</a></p>
+:::
+
+
 
 <div class="gal-feature">
 <div>Beautiful Papertowns of Bohemia</div>
-<div> :video_game: Kingdom Come: Deliverance</div>
-<div><img src="https://i.postimg.cc/mchMXZsR/Full-Map-Hi-Res-cut.jpg" /></div>
+<div> :video_game:</div>
+<div><img src="" /></div>
 <div><a href="https://forum.kingdomcomerpg.com/t/all-16-kingdom-come-deliverance-maps-high-resolution-no-markers/66445" target="_blank">Edgecrusher420</a></div>
 </div>
 
