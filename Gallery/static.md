@@ -19,18 +19,19 @@ This site is under construction!
 
 ## Imaginary Maps 
 
-# Game related Maps
+### Game related Maps
+:video_game:
 
 <div class="gal-feature">
 <div>Beautiful Papertowns of Bohemia</div>
-<div>Kingdom Come: Deliverance</div>
+<div> :video_game: Kingdom Come: Deliverance</div>
 <div><img src="https://i.postimg.cc/mchMXZsR/Full-Map-Hi-Res-cut.jpg" /></div>
-<div>[Edgecrusher420](https://forum.kingdomcomerpg.com/t/all-16-kingdom-come-deliverance-maps-high-resolution-no-markers/66445)</div>
+<div><a href="https://forum.kingdomcomerpg.com/t/all-16-kingdom-come-deliverance-maps-high-resolution-no-markers/66445" target="_blank">Edgecrusher420</a></div>
 </div>
 
-# Book related Maps
+### Book related Maps
 
-# DnD Maps
+### DnD Maps
 <!--
 https://www.panoramaresort.com/while-you-are-here/trail-map/
 
