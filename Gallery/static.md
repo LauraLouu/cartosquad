@@ -1,8 +1,36 @@
+---
+pageClass: gallery
+---
 # Map-Gallery: Static Maps
 
 ::: danger TODO
 This site is under construction!
 :::
+
+
+## Data Visualization
+
+
+
+## Infographic 
+
+## Children's Maps
+
+
+## Imaginary Maps 
+
+# Game related Maps
+
+<div class="gal-feature">
+<div>Beautiful Papertowns of Bohemia</div>
+<div>Kingdom Come: Deliverance</div>
+<div><img src="https://i.postimg.cc/mchMXZsR/Full-Map-Hi-Res-cut.jpg" /></div>
+<div>[Edgecrusher420](https://forum.kingdomcomerpg.com/t/all-16-kingdom-come-deliverance-maps-high-resolution-no-markers/66445)</div>
+</div>
+
+# Book related Maps
+
+# DnD Maps
 <!--
 https://www.panoramaresort.com/while-you-are-here/trail-map/
 
