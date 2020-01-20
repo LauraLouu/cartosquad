@@ -14,6 +14,7 @@ This site is under construction!
 :mountain_snow:  [Panorama Mountain, Canada](https://www.google.de/maps/@50.44175,-116.2304863,14.01z/data=!5m1!1e4)  
 :writing_hand:  [Panorama Pure Canada](https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map.pdf)
 :::
+<p style="clear:both;"></p>
 
 ## Data Visualization
 
@@ -22,6 +23,7 @@ This site is under construction!
 :earth_africa: global view  
 :writing_hand:  [Andy Woodruff](http://andywoodruff.com/blog/beyond-the-sea/)
 :::
+<p style="clear:both;"></p>
 
 ## Historical Maps
 
@@ -30,6 +32,7 @@ This site is under construction!
 :calendar: 1947  
 :writing_hand:  [Verlag Müller u. Kiepenheuer, Bergen II Obb.](http://saarland.digicult-museen.net/objekte/6603)
 :::
+<p style="clear:both;"></p>
 
 ## Infographic 
 
@@ -38,12 +41,14 @@ This site is under construction!
 :earth_africa: global view  
 :writing_hand:  [Halcyon Maps](https://www.halcyonmaps.com/the-map-of-stereotypes/)
 :::
+<p style="clear:both;"></p>
 
 <img src="http://visualoop.com/media/2016/03/Stunde-Null-Berlin-1945-1040x676.jpg"  style="text-align:center; height:180px;float: left; margin: 0px 15px 15px 15px;"/>
 ::: tip Berlin 1945: The Hour Zero
 :earth_africa: Berlin, Germany  
 :writing_hand:  [Berliner Morgenpost](http://visualoop.com/infographics/berlin-1945-the-hour-zero)
 :::
+<p style="clear:both;"></p>
 
 ## Children's Maps
 
@@ -52,6 +57,7 @@ This site is under construction!
 :earth_africa: interstellar  
 :writing_hand:  [Henrik Hargitai](https://childrensmaps.wordpress.com/planetary-maps-for-children/)
 :::
+<p style="clear:both;"></p>
 
 ## Imaginary Maps 
 
@@ -62,6 +68,7 @@ This site is under construction!
 :video_game:  Kingdom Come: Deliverance  
 :writing_hand:  [Edgecrusher420](https://forum.kingdomcomerpg.com/t/all-16-kingdom-come-deliverance-maps-high-resolution-no-markers/66445)
 :::
+<p style="clear:both;"></p>
 
 ### Book related Maps
 
