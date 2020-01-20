@@ -47,7 +47,7 @@ This site is under construction!
 
 ### Game related Maps
 
-![Kingdom Com](https://i.postimg.cc/mchMXZsR/Full-Map-Hi-Res-cut.jpg)
+![Kingdome Come](https://i.postimg.cc/mchMXZsR/Full-Map-Hi-Res-cut.jpg)
 
 > __BEAUTIFUL PAPERTOWNS OF BOHEMIA__ | :video_game:  Kingdom Come: Deliverance | :writing_hand:  [Edgecrusher420](https://forum.kingdomcomerpg.com/t/all-16-kingdom-come-deliverance-maps-high-resolution-no-markers/66445)
 
