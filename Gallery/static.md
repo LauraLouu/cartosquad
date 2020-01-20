@@ -1,6 +1,3 @@
----
-pageClass: gallery
----
 # Map-Gallery: Static Maps
 
 ::: danger TODO
