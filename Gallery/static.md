@@ -9,7 +9,7 @@ This site is under construction!
 
 ## Panorama Maps
 
-<img src="https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map_website.jpg"  style="text-align:center; height:180px;float: right; margin: 0px 15px 15px 15px;" />
+<img src="https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map_website.jpg"  class="gal-img" />
 
 ::: tip PANORAMA TRAIL MAP
 :mountain_snow:  [Panorama Mountain, Canada](https://www.google.de/maps/@50.44175,-116.2304863,14.01z/data=!5m1!1e4)  
@@ -20,7 +20,7 @@ This site is under construction!
 
 ## Data Visualization
 
-<img src="http://andywoodruff.com/blog/wp-content/uploads/2016/03/australia.jpg"  style="text-align:center; height:180px; float: left; margin: 0px 15px 15px 15px;"/>
+<img src="http://andywoodruff.com/blog/wp-content/uploads/2016/03/australia.jpg" class="gal-img"/>
 
 ::: tip BEYOND THE SEA
 :earth_africa: global view  
@@ -31,7 +31,7 @@ This site is under construction!
 
 ## Historical Maps
 
-<img src="https://i.imgur.com/qVBb5dW.jpg"  style="text-align:center; height:180px;float: left; margin: 0px 15px 15px 15px;"/>
+<img src="https://i.imgur.com/qVBb5dW.jpg"  class="gal-img" />
 
 ::: tip GLOBAL ECONOMY MAP
 :calendar: 1947  
@@ -42,7 +42,7 @@ This site is under construction!
 
 ## Infographic 
 
-<img src="https://images.squarespace-cdn.com/content/v1/55a676ebe4b0e7324c26d410/1459594527468-JYBNEE4XGXV24FB311PR/ke17ZwdGBToddI8pDm48kFIqeyKIx_4CypQkVpvjGEhZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIPVlqm4eRhrC4xHj1sUz6u8KOKL79uYahDQ3N51Lax9cKMshLAGzx4R3EDFOm1kBS/Stereotypes4.jpg?format=1500w"  style="text-align:center; height:180px;float: left; margin: 0px 15px 15px 15px;"/>
+<img src="https://images.squarespace-cdn.com/content/v1/55a676ebe4b0e7324c26d410/1459594527468-JYBNEE4XGXV24FB311PR/ke17ZwdGBToddI8pDm48kFIqeyKIx_4CypQkVpvjGEhZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIPVlqm4eRhrC4xHj1sUz6u8KOKL79uYahDQ3N51Lax9cKMshLAGzx4R3EDFOm1kBS/Stereotypes4.jpg?format=1500w"  class="gal-img" />
 
 ::: tip MAP OF STEREOTYPES
 :earth_africa: global view  
@@ -51,7 +51,7 @@ This site is under construction!
 
 <p style="clear:both;"></p>
 
-<img src="http://visualoop.com/media/2016/03/Stunde-Null-Berlin-1945-1040x676.jpg"  style="text-align:center; height:180px;float: left; margin: 0px 15px 15px 15px;"/>
+<img src="http://visualoop.com/media/2016/03/Stunde-Null-Berlin-1945-1040x676.jpg"  class="gal-img" />
 
 ::: tip BERLIN, 1945: THE HOUR ZERO
 :earth_africa: Berlin, Germany  
@@ -62,7 +62,7 @@ This site is under construction!
 
 ## Children's Maps
 
-<img src="https://childrensmaps.files.wordpress.com/2014/11/mars_en_m.jpg"  style="text-align:center; height:180px;float: left; margin: 0px 15px 15px 15px;"/>
+<img src="https://childrensmaps.files.wordpress.com/2014/11/mars_en_m.jpg"  class="gal-img" />
 
 ::: tip PLANETARY MAPS FOR CHILDREN
 :earth_africa: interstellar  
@@ -75,7 +75,7 @@ This site is under construction!
 
 ### Game related Maps
 
-<img src="https://i.postimg.cc/mchMXZsR/Full-Map-Hi-Res-cut.jpg"  style="float: left; margin: 0px 15px 15px 15px;"/>
+<img src="https://i.postimg.cc/mchMXZsR/Full-Map-Hi-Res-cut.jpg"  class="gal-img" />
 
 ::: tip BEAUTIFUL PAPERTOWNS OF BOHEMIA
 :video_game:  Kingdom Come: Deliverance  
