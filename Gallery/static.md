@@ -9,7 +9,7 @@ This site is under construction!
 
 ## Panorama Maps
 
-<img src="https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map_website.jpg"  style="text-align:center; height:180px;float: left; margin: 0px 15px 15px 15px;" />
+<img src="https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map_website.jpg"  style="text-align:center; height:180px;float: right; margin: 0px 15px 15px 15px;" />
 
 ::: tip PANORAMA TRAIL MAP
 :mountain_snow:  [Panorama Mountain, Canada](https://www.google.de/maps/@50.44175,-116.2304863,14.01z/data=!5m1!1e4)  
@@ -31,11 +31,11 @@ This site is under construction!
 
 ## Historical Maps
 
-<img src="https://imgur.com/qVBb5dW"  style="text-align:center; height:180px;float: left; margin: 0px 15px 15px 15px;"/>
+<img src="https://i.imgur.com/qVBb5dW.jpg"  style="text-align:center; height:180px;float: left; margin: 0px 15px 15px 15px;"/>
 
 ::: tip GLOBAL ECONOMY MAP
 :calendar: 1947  
-:writing_hand:  [Verlag Müller u. Kiepenheuer, Bergen II Obb.](http://saarland.digicult-museen.net/objekte/6603)
+:writing_hand:  [Verlag Müller u. Kiepenheuer, Bergen II Obb.](http://saarland.digicult-museen.net/objekte/6603) found on [Imgur](https://imgur.com/qVBb5dW)
 :::
 
 <p style="clear:both;"></p>
