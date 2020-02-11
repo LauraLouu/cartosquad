@@ -1,7 +1,7 @@
 <template>
   <div class="post-container">
       <div class="post-card">
-        <img class="article-image" :src="{{ page.frontmatter.map-link }}" />
+        <img class="article-image" src="{{ page.frontmatter.map-link }}" />
         <div class="page-detail">
           <div class="page-title">{{ page.title }}</div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
