@@ -5,7 +5,7 @@
         <div class="page-detail">
           <div class="page-title">{{ page.title }}</div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
-          <div class="page-author">Author: {{ page.frontmatter.author }}/div>
+          <div class="page-author">Author: <a :href="page.frontmatter.source-link">{{ page.frontmatter.author }}</a></div>
           <div class="read-more"><router-link :to="page.path">read more →</router-link></div> 
         </div>
       </div>
@@ -38,11 +38,12 @@ export default {
   width: 600px;
   height: 150px;
   margin: 10px;
-  border: 2px solid #247ba0;
+  border: 1px solid #ffffff;
   border-radius: 3px;
   padding: 10px;
   display: flex;
   align-items: center;
+  background-color: rgba(211,228,236,0.2);
 }
 .article-image {
   height: 100%;
