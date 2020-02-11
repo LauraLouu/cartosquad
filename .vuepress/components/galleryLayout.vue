@@ -56,4 +56,7 @@ export default {
 .page-detail {
     padding: 10px;
 }
+.page-title {
+    font-weight: bold;
+}
 </style>
