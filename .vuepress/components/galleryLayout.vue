@@ -3,7 +3,7 @@
       <div class="post-card">
         <img class="article-image" src="{{ page.frontmatter.map-link }}" />
         <div class="page-detail">
-          <div class="page-title">{{ page.title }}</div>
+          <div class="page-title">{{ page.frontmatter.title }}</div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
           <div class="page-author">Author: <a href="{{ page.frontmatter.source-link }}" target="_blank">{{ page.frontmatter.author }}</a></div>
           <div class="read-more"><router-link v-for="page in pages" :to="page.path">read more →</router-link></div> 
