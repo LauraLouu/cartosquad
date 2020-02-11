@@ -5,7 +5,7 @@
         <div class="page-detail">
           <div class="page-title">{{ page.title }}</div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
-          <div class="page-author">Author: <authorLink :to="page.frontmatter.source-link" target="_blank">{{ page.frontmatter.author }}</authorLink></div>
+          <div class="page-author">Author: <authorLink :to="{{ page.frontmatter.source-link }}" target="_blank">{{ page.frontmatter.author }}</authorLink></div>
           <div class="read-more"><router-link :to="page.path">read more →</router-link></div> 
         </div>
       </div>
@@ -38,7 +38,7 @@ export default {
   width: 600px;
   height: 150px;
   margin: 10px;
-  border: 2px solid $accentColor;
+  border: 2px solid #247ba0;
   border-radius: 3px;
   padding: 10px;
   display: flex;
