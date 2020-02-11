@@ -1,15 +1,14 @@
 <template>
   <div class="post-container">
-    <router-link v-for="page in pages" :to="page.path">
       <div class="post-card">
-        <img class="article-image" src="{{ page.frontmatter.map-link }}" />
+        <img class="article-image" :src="{{ page.frontmatter.map-link }}" />
         <div class="page-detail">
           <div class="page-title">{{ page.title }}</div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
-          <div class="page-author">Author: <a href="{{ page.frontmatter.source-link }}" target="_blank">{{ page.frontmatter.author }}</a></div>
+          <div class="page-author">Author: <a :href="{{ page.frontmatter.source-link }}" target="_blank">{{ page.frontmatter.author }}</a></div>
+          <div class="read-more"><router-link v-for="page in pages" :to="page.path">read more →</router-link></div> 
         </div>
       </div>
-    </router-link>
   </div>
 </template>
 <script>
@@ -38,7 +37,7 @@ export default {
   width: 600px;
   height: 150px;
   margin: 10px;
-  border: 1px solid #ccc;
+  border: 2px solid $accentColor;
   border-radius: 3px;
   padding: 10px;
   display: flex;
@@ -51,5 +50,8 @@ export default {
   width: 100%;
   display: flex;
   justify-content: center;
+}
+.page-detail {
+    padding: 10px;
 }
 </style>
