@@ -28,3 +28,28 @@ export default {
   }
 }
 </script>
+<style scoped>
+.post-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.post-card {
+  width: 600px;
+  height: 150px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+.article-image {
+  height: 100%;
+}
+.description {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+</style>
