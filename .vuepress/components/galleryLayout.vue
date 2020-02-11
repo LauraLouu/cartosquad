@@ -1,12 +1,11 @@
 <template>
   <div class="post-container" v-for="page in pages">
-  
       <div class="post-card">
         <img class="article-image" src="{{ page.frontmatter.map-link }}" />
         <div class="page-detail">
           <div class="page-title">{{ page.title }}</div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
-          <div class="page-author">Author: <a href="{{ page.frontmatter.source-link }}" target="_blank">{{ page.frontmatter.author }}</a></div>
+          <div class="page-author">Author: <authorLink :to="page.frontmatter.source-link" target="_blank">{{ page.frontmatter.author }}</authorLink></div>
           <div class="read-more"><router-link :to="page.path">read more →</router-link></div> 
         </div>
       </div>
