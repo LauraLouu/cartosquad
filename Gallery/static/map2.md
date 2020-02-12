@@ -1,13 +1,12 @@
 ---
-title: Panorama Trail Map
-description: A simple yet highly informative panorama map depicting the winter trails of Panorama Mountain in Canada. I like the layout composition as well as the clearness of the map. All trails are perfectly distinguishable. 
-location: Panorama Mountain, Canada
-locationLink: https://www.google.de/maps/@50.44175,-116.2304863,14.01z/data=!5m1!1e4
-author: Panorama Pure Canada
-category: Panorama Map
-sourceLink: https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map.pdf
-authorLink: https://www.panoramaresort.com/while-you-are-here/trail-map/
-type: maps
-mapLink: https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map_website.jpg
+title: Beyond the Sea
+description: Have you ever been to the beach, looked at the horizon and wondered what lays on the other side of the ocean? This map visualizes what is located across the sea when looking straight out. While it is interesting to discover places you would not have guessed, the maps also illustrate the distortion and geographical interaction of map projections. 
+location: global View
+locationLink: https://www.google.de/maps/@30,0,3z/data=!5m1!1e4
+author: Andy Woodruff
+category: Data Visualization
+sourceLink: http://andywoodruff.com/blog/beyond-the-sea/
+authorLink: https://andywoodruff.com/
+type: map
+mapLink: http://andywoodruff.com/blog/wp-content/uploads/2016/03/australia.jpg
 ---
-
