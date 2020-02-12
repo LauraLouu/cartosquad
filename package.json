@@ -20,5 +20,8 @@
     "homepage": "https://github.com/LauraLouu/cartosquad#readme",
     "dependencies": {
         "vuepress": "^1.0.3"
+    },
+    "devDependencies": {
+        "@vuepress/plugin-medium-zoom": "^1.3.0"
     }
 }
