@@ -8,11 +8,9 @@
           <div class="page-author"><span class="list">Author: </span><a target="_blank" v-bind:href="page.frontmatter.authorLink">{{ page.frontmatter.author }}</a></div>
           <div class="page-location"><span class="list">Location: </span><a target="_blank" v-bind:href="page.frontmatter.locationLink">{{ page.frontmatter.location }}</a></div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
-          <!--div class="read-more"><router-link :to="page.path">read more →</router-link></div--> 
           <div class="read-more"><a target="_blank" v-bind:href="page.frontmatter.sourceLink">see original →</a></div> 
         </div>
       </div>
-      
   </div>
 </template>
 <script>
