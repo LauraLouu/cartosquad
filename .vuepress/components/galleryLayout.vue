@@ -56,6 +56,7 @@ export default {
 }
 .page-title {
     font-weight: bold;
+    font-size: 1.25em;
 }
 .list {
   font-weight:550;
