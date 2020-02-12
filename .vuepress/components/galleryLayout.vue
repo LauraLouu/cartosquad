@@ -9,7 +9,7 @@
           <div class="page-location"><span class="list">Location: </span><a v-bind:href="page.frontmatter.locationLink">{{ page.frontmatter.location }}</a></div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
           <!--div class="read-more"><router-link :to="page.path">read more →</router-link></div--> 
-          <div class="read-more"><router-link :to="page.frontmatter.sourceLink">see original →</router-link></div> 
+          <div class="read-more"><a v-bind:href="page.frontmatter.sourceLink">see original →</a></div> 
         </div>
       </div>
       
