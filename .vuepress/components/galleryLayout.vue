@@ -43,7 +43,7 @@ export default {
   margin: 10px;
   border: 1px solid #ffffff;
   border-radius: 3px;
-  padding: 10px;
+  padding: 2em;
   display: flex;
   align-items: center;
 }
