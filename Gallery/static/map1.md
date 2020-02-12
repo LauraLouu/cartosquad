@@ -3,7 +3,7 @@ title: Panorama Trail Map
 description: Basic intro to vuepress
 location: Panorama Mountain, Canada
 author: Panorama Pure Canada
-source-link: https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map.pdf
+sourceLink: https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map.pdf
 type: map
 map-link: https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map_website.jpg
 ---
