@@ -34,6 +34,8 @@ export default {
   display: flex;
   flex-wrap: wrap;
   width: 100%;
+  background-color: rgba(211,228,236,0.2);
+  padding: 15px 0;
 }
 .post-card {
   width: 600px;
@@ -44,7 +46,6 @@ export default {
   padding: 10px;
   display: flex;
   align-items: center;
-  background-color: rgba(211,228,236,0.2);
 }
 .article-image {
   height: 100%;
