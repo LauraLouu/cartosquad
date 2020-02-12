@@ -5,7 +5,7 @@ location: Panorama Mountain, Canada
 author: Panorama Pure Canada
 sourceLink: https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map.pdf
 type: map
-map-link: https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map_website.jpg
+mapLink: https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map_website.jpg
 ---
 
 # Panorama Mountain

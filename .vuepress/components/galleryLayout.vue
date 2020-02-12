@@ -1,8 +1,7 @@
 <template>
   <div class="post-container" v-for="page in pages">
       <div class="post-card">
-        <!--img class="article-image" src="page.frontmatter.map-link" /-->
-        
+        <img class="article-image" v-bind:src="page.frontmatter.mapLink" />
         <div class="page-detail">
           <div class="page-title">{{ page.title }}</div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
