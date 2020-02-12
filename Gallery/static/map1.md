@@ -1,6 +1,6 @@
 ---
 title: Panorama Trail Map
-description: Basic intro to vuepress
+description: A simple yet highly informative panorama map depicting the winter trails of Panorama Mountain in Canada.
 location: Panorama Mountain, Canada
 author: Panorama Pure Canada
 category: Panorama Map
