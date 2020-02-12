@@ -5,9 +5,10 @@
         <div class="page-detail">
           <div class="page-title">{{ page.title }}</div>
           <div class="page-categroy">{{ page.frontmatter.category }}</div>
-          <div class="page-author">Author: <a v-bind:href="page.frontmatter.sourceLink">{{ page.frontmatter.author }}</a></div>
+          <div class="page-author">Author: <a v-bind:href="page.frontmatter.authorLink">{{ page.frontmatter.author }}</a></div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
-          <div class="read-more"><router-link :to="page.path">read more →</router-link></div> 
+          <!--div class="read-more"><router-link :to="page.path">read more →</router-link></div--> 
+          <div class="read-more"><router-link :to="page.frontmatter.sourceLink">see original →</router-link></div> 
         </div>
       </div>
       
