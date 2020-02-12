@@ -7,7 +7,7 @@ author: Panorama Pure Canada
 category: Panorama Map
 sourceLink: https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map.pdf
 authorLink: https://www.panoramaresort.com/while-you-are-here/trail-map/
-type: map
+type: maps
 mapLink: https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map_website.jpg
 ---
 
