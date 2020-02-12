@@ -4,9 +4,9 @@
         <img class="article-image" v-bind:src="page.frontmatter.mapLink" />
         <div class="page-detail">
           <div class="page-title">{{ page.title }}</div>
-          <div class="page-categroy"><b>Category</b>{{ page.frontmatter.category }}</div>
-          <div class="page-author"><b>Author:</b> <a v-bind:href="page.frontmatter.authorLink">{{ page.frontmatter.author }}</a></div>
-          <div class="page-location"><b>Location: </b><a v-bind:href="page.frontmatter.locationLink">{{ page.frontmatter.location }}</a></div>
+          <div class="page-categroy"><span class="list">Category: </span>{{ page.frontmatter.category }}</div>
+          <div class="page-author"><span class="list">Author: </span><a v-bind:href="page.frontmatter.authorLink">{{ page.frontmatter.author }}</a></div>
+          <div class="page-location"><span class="list">Location: </span><a v-bind:href="page.frontmatter.locationLink">{{ page.frontmatter.location }}</a></div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
           <!--div class="read-more"><router-link :to="page.path">read more →</router-link></div--> 
           <div class="read-more"><router-link :to="page.frontmatter.sourceLink">see original →</router-link></div> 
@@ -56,5 +56,8 @@ export default {
 }
 .page-title {
     font-weight: bold;
+}
+.list {
+  font-weight:550;
 }
 </style>
