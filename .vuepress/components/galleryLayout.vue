@@ -58,6 +58,9 @@ export default {
     font-weight: bold;
     font-size: 1.25em;
 }
+.post-description {
+  padding-top:10px;
+}
 .list {
   font-weight:550;
 }
