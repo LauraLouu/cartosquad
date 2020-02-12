@@ -9,7 +9,7 @@ map-link: https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map_website
 ---
 
 # Panorama Mountain
-__Panorama Trail Map__ | :mountain_snow:  [Panorama Mountain, Canada](https://www.google.de/maps/@50.44175,-116.2304863,14.01z/data=!5m1!1e4) | :writing_hand:  [Panorama Pure Canada](https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map.pdf)
+__{{title}}__ | :mountain_snow:  [Panorama Mountain, Canada](https://www.google.de/maps/@50.44175,-116.2304863,14.01z/data=!5m1!1e4) | :writing_hand:  [Panorama Pure Canada](https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map.pdf)
 
 ![Panorama Mountain](https://www.panoramaresort.com/assets/Winter_2019_20_Trail_Map_website.jpg)
 
