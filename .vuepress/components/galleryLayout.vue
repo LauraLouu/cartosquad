@@ -1,4 +1,5 @@
 <template>
+<div>
   <div class="post-container" v-for="page in pages">
       <div class="post-card">
         <img class="article-image" v-bind:src="page.frontmatter.mapLink" />
@@ -12,6 +13,7 @@
         </div>
       </div>
   </div>
+</div>
 </template>
 <script>
 export default {
@@ -26,6 +28,8 @@ export default {
         this.pages.push(page)
       }
     })
+    console.log(this.pages);
+    
   }
 }
 </script>
