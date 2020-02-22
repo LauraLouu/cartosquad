@@ -33,6 +33,7 @@ This site is under construction!
 
 ## Online courses 
 
+Esri MOOC: [Spatial Data Science: The New Frontier in Analytics](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science:-the-new-frontier-in-analytics/)
 
 ## Tutorials
 
