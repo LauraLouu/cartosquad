@@ -14,6 +14,10 @@ https://98mprice.gitlab.io/findanewvlogger/
 
 https://www.arcanum.hu/en/mapire/
 
+https://lebenshaltungskosten.info/en
+
+https://endonyms.org/
+
 https://labs.mapbox.com/bites/00267/
 
 http://elasticterrain.xyz/#map-andes

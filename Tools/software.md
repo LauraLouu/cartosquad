@@ -13,7 +13,8 @@ Hexagon provides various solutions for many tasks ranging from GIS to geo-system
 [GRASS](https://grass.osgeo.org/download/software/mac-osx/)  
 GRASS is an **open-source and free** GIS software for managing, analysing and processing geospatial data and imagery, including tools to visualization and spatial modeling. 
 
-
+<!-- https://docs.google.com/spreadsheets/d/1nNEtjWBROepTzGgTjZ8PslWyv7z_QqzgF1uRSm-0at0/edit#gid=0
+https://github.com/Z3tt/30DayMapChallenge-->
 ## Map Making 
 
 [Avenza](https://www.avenza.com/)  
@@ -34,6 +35,9 @@ A tool to simply create chloropleth maps in only 3 steps - country shapes includ
 - [Terrain Equalizer](http://www.terraincartography.com/terrainequalizer/)
 - [Scree Painter](http://www.screepainter.com/)
 - [Pyramid Shader](http://terraincartography.com/PyramidShader/index.html)
+
+[DEM to 3D (QGIS Plugin)](https://demto3d.com/en/ayuda/) is a plugin to convert DEM data to a 3D printable STL file.
+
 
 ## Design related Tasks
 

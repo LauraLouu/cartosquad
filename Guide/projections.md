@@ -16,7 +16,8 @@ Therefore, even though hundreds of projections exist, none is a perfect resemble
 ::: tip Globes
 The only correct representation of the surface can be found on a globe. Even though globes do not show distortions, they do have their drawbacks: their bulkiness makes it hard to measure and the map reader is not able to compare two places opposite of each other at the same time, as only one side of the globe at the time can be viewed. 
 :::
-
+<!--https://www.reddit.com/r/MapPorn/comments/f2ospv/oc_10_map_projections_and_how_they_distort_the/
+https://preview.redd.it/5cnx7tzrd6e41.jpg?width=640&height=2233&crop=smart&auto=webp&s=8df2f517046312aba346d9d7b8fc31f5da38012b-->
 ## The Graticule of the Earth
 
 Using the two poles of the planet as its fixed points, a reference system can be established by using the connection of these points as the axis the planet rotates around. 
@@ -95,6 +96,8 @@ Because of the structure of map tiles (size usually being 256 by 256px), the map
 ::: tip The true Size
 To demonstrate how much distortion exists in well known web maps using Webmercator projection, such as Google Maps, check out [the true size](http://thetruesize.com) of countries. 
 :::
+
+## Spilhaus projection
 
 ## EPSG
 EPSG describes a database of coordinate reference information and tranformation established by **E**uropean **P**etroleum **S**urvey **G**roup. The spatial references may be applied on global, regional, national or local scale. 

@@ -35,7 +35,11 @@ This site is under construction!
 
 Esri MOOC: [Spatial Data Science: The New Frontier in Analytics](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science:-the-new-frontier-in-analytics/)
 
+Udemy: [Introduction to Maps in Folium and Python ](https://www.udemy.com/course/introduction-to-maps-in-folium-and-python/) (paid course)
+
 ## Tutorials
+
+https://www.youtube.com/watch?v=hMn74o11wdk&feature=emb_logo
 
 http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/
 
@@ -44,3 +48,11 @@ https://adventuresinmapping.com/2018/10/31/cmyk-vice/
 https://www.youtube.com/playlist?list=PLOlUoOtyTOXilBfrGanBziU738fyJdFqn
 
 https://blog.mapbox.com/mapbox-cali-terrain-style-bea8cd410523
+
+https://johnflower.org/tutorial/make-mountains-blender-heightmaps
+
+http://joelarson.com/2019/04/07/blender-hillshades.html
+
+## Streams 
+
+https://www.twitch.tv/allow505/
