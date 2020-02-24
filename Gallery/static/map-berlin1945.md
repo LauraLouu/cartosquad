@@ -1,5 +1,5 @@
 ---
-title: Berlin, 1945: The Hour Zero
+title: Berlin, 1945 - The Hour Zero
 description: Berlin, 8 May 1954, Germany is defeated, the war is over. This map visualizes the extend of destruction on this day giving additional information to interesting facts and numbers of this topic. This map is in German. 
 location: global View
 locationLink: https://www.google.de/maps/place/Berlin/@52.5067614,13.2846509,11z
