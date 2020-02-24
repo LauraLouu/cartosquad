@@ -1,0 +1,12 @@
+---
+title: Global Economy Map (1947)
+description: Bringing planetary maps to life for children to explore! These lovely maps with an attention to detail incorporate scientific names and information as well as historical facts to be easy understood by children. 
+location: global View
+locationLink: https://earth.google.com/web/@8.03557595,1.83470883,-3925.40639868a,27821080.32843591d,35y,356.709772h,0t,0r
+author: Verlag Müller u. Kiepenheuer, Bergen II Obb.
+category: Thematic, Data Visualization, Historic
+sourceLink: https://imgur.com/qVBb5dW
+authorLink: http://saarland.digicult-museen.net/objekte/6603
+type: map
+mapLink: https://i.imgur.com/qVBb5dW.jpg
+---
