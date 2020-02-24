@@ -9,7 +9,10 @@
           <div class="page-author"><span class="list">Author: </span><a target="_blank" v-bind:href="page.frontmatter.authorLink">{{ page.frontmatter.author }}</a></div>
           <div class="page-location"><span class="list">Location: </span><a target="_blank" v-bind:href="page.frontmatter.locationLink">{{ page.frontmatter.location }}</a></div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
-          <div class="read-more"><a target="_blank" v-bind:href="page.frontmatter.sourceLink">see original →</a></div> 
+          <div class="read-more">
+            <div><a class="button medium-zoom-image" v-bind:href="page.frontmatter.mapLink">view map </a></div>
+            <div><a class="button" target="_blank" v-bind:href="page.frontmatter.sourceLink">see original →</a></div>
+            </div> 
         </div>
       </div>
   </div>
@@ -35,7 +38,7 @@ export default {
 </script>
 <style scoped>
 .post-container {
-  display: block;
+  display:flex;
   width: 100%;
   padding: 15px 0;
 }
@@ -63,5 +66,20 @@ export default {
 }
 .list {
   font-weight:550;
+}
+
+.read-more {
+  display:inline-grid;
+  grid-template-columns: auto auto;
+}
+
+.read-more .button {
+  background-color: #247ba0;
+  color: #ffffff;
+}
+
+.read-more .button:hover {
+  background-color: #123d50;
+  color: #ffffff;
 }
 </style>
