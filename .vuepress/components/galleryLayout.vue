@@ -10,7 +10,7 @@
           <div class="page-location"><span class="list">Location: </span><a target="_blank" v-bind:href="page.frontmatter.locationLink">{{ page.frontmatter.location }}</a></div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
           <div class="read-more">
-            <div><a class="button medium-zoom-image" v-bind:href="page.frontmatter.mapLink">view map </a></div>
+            <div><a class="button medium-zoom-image" target="_blank" v-bind:href="page.frontmatter.mapLink">view map </a></div>
             <div><a class="button" target="_blank" v-bind:href="page.frontmatter.sourceLink">see original →</a></div>
             </div> 
         </div>
@@ -75,7 +75,12 @@ export default {
 
 .read-more .button {
   background-color: #247ba0;
-  color: #ffffff;
+  color:#fff;
+  margin-right: 10px;
+  line-height: 3em;
+  padding: 5px 7px;
+  text-decoration: none !important;
+  border-radius: 3px;
 }
 
 .read-more .button:hover {
