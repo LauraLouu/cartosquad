@@ -15,6 +15,10 @@ GRASS is an **open-source and free** GIS software for managing, analysing and pr
 
 <!-- https://docs.google.com/spreadsheets/d/1nNEtjWBROepTzGgTjZ8PslWyv7z_QqzgF1uRSm-0at0/edit#gid=0
 https://github.com/Z3tt/30DayMapChallenge-->
+
+[WhiteboxTools](https://jblindsay.github.io/ghrg/WhiteboxTools/index.html)  
+Developed by the University of Guelph's Geomorphometry and Hydrogeomatics Research Group (GHRG), this platform provides more than __420__ tools for advanced geospatial analysis.  
+
 ## Map Making 
 
 [Avenza](https://www.avenza.com/)  
