@@ -13,7 +13,7 @@ module.exports = {
     ],
     plugins: {
         '@vuepress/medium-zoom': {
-            selector: '.theme-default-content :not(a) > img'
+            selector: ['.theme-default-content :not(a) > img', '.button .map']
         },
         '@vuepress/back-to-top': true
     },
