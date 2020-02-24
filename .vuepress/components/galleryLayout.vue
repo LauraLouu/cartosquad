@@ -10,7 +10,7 @@
           <div class="page-location"><span class="list">Location: </span><a target="_blank" v-bind:href="page.frontmatter.locationLink">{{ page.frontmatter.location }}</a></div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
           <div class="read-more">
-            <div><a class="button map" target="_blank" v-bind:href="page.frontmatter.mapLink">view map </a></div>
+            <div><a class="button map medium-zoom-image" target="_blank" v-bind:href="page.frontmatter.mapLink">view map </a></div>
             <div><a class="button" target="_blank" v-bind:href="page.frontmatter.sourceLink">see original →</a></div>
             </div> 
         </div>
