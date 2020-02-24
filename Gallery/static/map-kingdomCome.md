@@ -8,5 +8,5 @@ category: Fictional, Historic, Game
 sourceLink: https://forum.kingdomcomerpg.com/t/all-16-kingdom-come-deliverance-maps-high-resolution-no-markers/66445
 authorLink: https://www.kingdomcomerpg.com/de
 type: map
-mapLink: https://childrensmaps.files.wordpress.com/2014/11/mars_en_m.jpg
+mapLink: https://i.postimg.cc/DyR5j9bz/Rattay-Hi-Res-cut.jpg
 ---
