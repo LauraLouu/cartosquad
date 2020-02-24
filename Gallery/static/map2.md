@@ -5,8 +5,8 @@ location: global View
 locationLink: https://www.google.de/maps/@30,0,3z/data=!5m1!1e4
 author: Andy Woodruff
 category: Data Visualization
-sourceLink: http://andywoodruff.com/blog/beyond-the-sea/
+sourceLink: https://andywoodruff.com/blog/beyond-the-sea/
 authorLink: https://andywoodruff.com/
 type: map
-mapLink: http://andywoodruff.com/blog/wp-content/uploads/2016/03/australia.jpg
+mapLink: https://andywoodruff.com/blog/wp-content/uploads/2016/03/australia.jpg
 ---
