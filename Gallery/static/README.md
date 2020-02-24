@@ -6,3 +6,9 @@ In future I try to incorporate a categorical sorting mechanism but as for now it
 :::  
 
 <galleryLayout />
+
+
+<!--
+https://www.loc.gov/resource/g9930.ct001880/
+https://www.youtube.com/watch?time_continue=19&v=3Jhac84QdpA
+-->
