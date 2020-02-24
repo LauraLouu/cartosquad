@@ -2,7 +2,7 @@
 title: The Map of stereotypes
 description: A depiction of the world from a more humorous point of view highlighting the stereotypes about countries and regions from a western perspective. Definitely nothing to take seriously or to take personally. 
 location: global View
-locationLink: https://www.google.de/maps/@30,0,3z/data=!5m1!1e4
+locationLink: https://earth.google.com/web/@8.03557595,1.83470883,-3925.40639868a,27821080.32843591d,35y,356.709772h,0t,0r
 author: Halcyon Maps
 category: Thematic Maps
 sourceLink: https://www.halcyonmaps.com/maps#/the-map-of-stereotypes/
