@@ -8,5 +8,5 @@ category: Tourism
 sourceLink: https://de.wikipedia.org/wiki/Datei:Vatican_City_map_DE.png
 authorLink: https://commons.wikimedia.org/wiki/User:Thoroe
 type: map
-mapLink: https://de.wikipedia.org/wiki/Datei:Vatican_City_map_DE.png#/media/Datei:Vatican_City_map_EN.png
+mapLink: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vatican_City_map_EN.png/1024px-Vatican_City_map_EN.png
 ---
