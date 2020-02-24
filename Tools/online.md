@@ -22,6 +22,9 @@ Mapshaper is an online tool to display and convert geospatial data in various fi
 [Geoconverter](https://geoconverter.hsr.ch/)  
 The **free** online tool provides an easy way to convert WMS and WFS layers to downloadable content as well as vector and raster files to various other file formats. 
 
+[Geocoder](https://geocode.localfocus.nl/)
+Map adresses to actual locations in batches with this online tool. 
+
 ## Misc
 
 [Datawrapper](https://www.datawrapper.de/)  
