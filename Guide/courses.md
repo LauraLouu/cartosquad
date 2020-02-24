@@ -32,6 +32,8 @@ This site is under construction!
 
 ["D3 Map Projections Morphing"](https://m635j520.blogspot.com/2013/02/d3-map-projections-morphing.html)
 
+["How to Monitor the Fires in the Amazon Rainforest on a Daily Basis"](https://fromgistors.blogspot.com/2019/08/how-to-monitor-fires-in-amazon.html)
+
 
 ## Online courses 
 
