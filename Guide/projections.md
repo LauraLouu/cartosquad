@@ -94,8 +94,10 @@ The Web Mercator projection used in web maps is a rectangular projection and was
 Because of the structure of map tiles (size usually being 256 by 256px), the map needs to be rectangular to be divided evenly into tiles so that a square aspect ratio is used at a maximal latitude of approx. 85.05 degrees. Another attribute of the projection is, that there are no special restriction: when zooming out of the OSM map it can be seen, that the map is repeated in west and east direction. The projection is also called Google Mercator (EPSG:900913),Spherical Mercator or Pseudo Mercator (EPSG:3857). Figure below shows the projection in combination with the Tissot’s Indicatrix to emphasize the distortion. 
 
 ::: tip The true Size
-To demonstrate how much distortion exists in well known web maps using Webmercator projection, such as Google Maps, check out [the true size](http://thetruesize.com) of countries. 
+To demonstrate how much distortion exists in well known web maps using Webmercator projection, such as Google Maps, check out [the true size](http://thetruesize.com) of countries.   
 :::
+
+Have a look at this beautiful, interactive website about Mercator and his maps: [Mercator. It's a flat, flat world!](https://mercator.tass.com/)
 
 ## Spilhaus projection
 
