@@ -35,29 +35,24 @@ export default {
 </script>
 <style scoped>
 .post-container {
-  display: flex;
-  flex-wrap: wrap;
+  display: block;
   width: 100%;
   padding: 15px 0;
 }
 .post-card {
   width: 600px;
-  height: 150px;
   margin: 10px;
   border: 1px solid #ffffff;
   border-radius: 3px;
   padding: 2em;
-  display: flex;
+  display: inline;
   align-items: center;
   background-color: rgba(211,228,236,0.2);
 }
 .article-image {
   width: 100%;
-  height: 20em;
+  height: 4em;
   object-fit: cover;
-}
-.page-detail {
-    padding: 10px;
 }
 .page-title {
     font-weight: bold;
