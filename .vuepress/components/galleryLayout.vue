@@ -2,8 +2,8 @@
 <div>
   <div class="post-container" v-for="page in pages">
       <div class="post-card">
-        <img class="article-image" v-bind:src="page.frontmatter.mapLink" />
         <div class="page-detail">
+        <img class="article-image" v-bind:src="page.frontmatter.mapLink" />
           <div class="page-title">{{ page.title }}</div>
           <div class="page-categroy"><span class="list">Category: </span>{{ page.frontmatter.category }}</div>
           <div class="page-author"><span class="list">Author: </span><a target="_blank" v-bind:href="page.frontmatter.authorLink">{{ page.frontmatter.author }}</a></div>
@@ -52,7 +52,9 @@ export default {
   background-color: rgba(211,228,236,0.2);
 }
 .article-image {
-  width: 20em;
+  width: 100%;
+  height: 20em;
+  object-fit: cover;
 }
 .page-detail {
     padding: 10px;
