@@ -1,6 +1,6 @@
 ---
 title: Planet Earth Inversed
-description: A detailed map of the Viking's expansion made by a Redditor. The clean style and layout truly focus on the context and information. 
+description: The world on this map looks familiar but something seems off. The artist inversed the earth; water becomes land and vice versa. It is a fun experiment.
 location: global View
 locationLink: https://earth.google.com/web/@8.03557595,1.83470883,-3925.40639868a,27821080.32843591d,35y,356.709772h,0t,0r
 author: Vlad Gerasimov
