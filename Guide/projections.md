@@ -26,6 +26,12 @@ A great circle divides the sphere in half through the center of the Earth. The e
 
 ![graticule](/assets/img/proj/graticule.png)
 
+::: details On a funny note: xkcd comic to map projections
+![xkcd](https://imgs.xkcd.com/comics/map_projections.png)
+:::
+
+
+
 # Azimuthal Projection
 In an azimuthal projection the plane touches the earth at a tangent point. The lines intersecting with this point at an equal angle are great circles (usually meridians). 
 - **Orthographic projections** uses the projection point as infinite entity using projection lines orthogonal to the projetion plane. Shape and area  are increasingly distorted the closer to the edge of the plane. 
