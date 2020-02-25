@@ -6,6 +6,3 @@ In future I try to incorporate a categorical sorting mechanism but as for now it
 :::  
 
 <galleryLayoutdesign/>
-
-
-<!--https://www.barelymaps.com/-->
