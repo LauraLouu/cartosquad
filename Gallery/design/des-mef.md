@@ -1,6 +1,6 @@
 ---
 title: Mary Edna Fraser Batik Maps on Silk
-description: 2017 I attended the opening of the exhibition "Rising Tides - Batiks on Silk" in Washington DC and was amazed by what can be created with such artistic talent combining geospatial science, cartography and art. 
+description: 2017 I attended the opening of the exhibition "Rising Tides - Batiks on Silk" in Washington DC and was amazed by what can be created with such artistic talent combining geospatial science, cartography and art. Her works were also exhibited on the 28th International Cartographic Conference. 
 location: various
 author: Mary Edna Fraser
 category: Fabric
