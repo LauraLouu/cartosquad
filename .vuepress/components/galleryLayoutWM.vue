@@ -26,7 +26,7 @@ export default {
   },
   mounted() {
     this.$site.pages.forEach(page => {
-      if (page.frontmatter.type === 'map') {
+      if (page.frontmatter.type === 'webmap') {
         this.pages.push(page)
       }
     })
