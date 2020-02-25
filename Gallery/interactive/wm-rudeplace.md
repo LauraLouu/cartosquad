@@ -4,7 +4,7 @@ description: A simple web map depicting places around the world that sound a lit
 location: Global
 author: Gary Gale
 authorLink: https://github.com/vicchi
-category: Thematic
+category: Thematic, Crowd Source
 sourceLink: https://www.vaguelyrudeplacesmap.com/
 type: webmap
 mapLink: /assets/img/maps/rudeplaces.png
