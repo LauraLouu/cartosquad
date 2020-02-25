@@ -86,7 +86,7 @@ module.exports = {
                 title: 'Map Gallery',
                 collapsable: true,
                 children: [
-                    ['/Gallery/webdev', 'Interactive Web Maps'],
+                    ['/Gallery/interactive/', 'Interactive Web Maps'],
                     ['/Gallery/static/', 'Static Maps'],
                     ['/Gallery/design', 'Artistic Maps'],
                     ['/Gallery/product', 'Map related products']
