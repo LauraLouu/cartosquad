@@ -5,6 +5,6 @@ location: Northern Realms
 author: Netflix
 category: Fictional, Game
 sourceLink: https://www.witchernetflix.com/en-gb
-type: map
+type: webmap
 mapLink: /assets/img/maps/netflixWitcher.png
 ---
