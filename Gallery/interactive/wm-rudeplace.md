@@ -7,5 +7,5 @@ authorLink: https://github.com/vicchi
 category: Thematic, Crowd Source
 sourceLink: https://www.vaguelyrudeplacesmap.com/
 type: webmap
-mapLink: /assets/img/maps/rudeplaces.png
+mapLink: /assets/img/maps/rudeplace.png
 ---
