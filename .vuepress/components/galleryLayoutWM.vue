@@ -6,7 +6,7 @@
         <img class="article-image" v-bind:src="page.frontmatter.mapLink" />
           <div class="page-title">{{ page.title }}</div>
           <div class="page-categroy"><span class="list">Category: </span>{{ page.frontmatter.category }}</div>
-          <div class="page-author"><span class="list">Author: </span>{{ page.frontmatter.author }}</div>
+         <div class="page-author"><span class="list">Author: </span><a target="_blank" v-bind:href="page.frontmatter.authorLink">{{ page.frontmatter.author }}</a></div>
           <div class="page-location"><span class="list">Location: </span>{{ page.frontmatter.location }}</div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
           <div class="read-more">
