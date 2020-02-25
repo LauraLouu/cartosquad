@@ -88,8 +88,7 @@ module.exports = {
                 children: [
                     ['/Gallery/interactive/', 'Interactive Web Maps'],
                     ['/Gallery/static/', 'Static Maps'],
-                    ['/Gallery/design', 'Artistic Maps'],
-                    ['/Gallery/product', 'Map related products']
+                    ['/Gallery/design/', 'Artistic Maps']
                 ]
             },
             ['/media', 'Cartography Media'],
