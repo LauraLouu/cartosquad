@@ -4,7 +4,7 @@ description:  Bringing the slightly different kind of data to the user - smell. 
 location: London, UK, Europe
 author: Good City Life
 authorLink: http://goodcitylife.org
-category: Data Visualization
+category: Data Visualization, Crowd Source
 sourceLink: http://goodcitylife.org/smellymaps/index.php
 type: webmap
 mapLink: http://goodcitylife.org/smellymaps/img/screenshots/highres/15.png
