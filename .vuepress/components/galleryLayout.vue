@@ -61,8 +61,8 @@ export default {
     font-weight: bold;
     font-size: 1.25em;
 }
-.post-description {
-  padding:10px 0;
+.page-description {
+  padding:5px 0;
 }
 .list {
   font-weight:550;

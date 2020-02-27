@@ -10,8 +10,7 @@
           <div class="page-location"><span class="list">Location: </span>{{ page.frontmatter.location }}</div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
           <div class="read-more">
-            <div><a class="button map medium-zoom-image" data-zoom="medium-zoom" target="_blank" v-bind:href="page.frontmatter.mapLink">view map </a></div>
-            <div><a class="button" target="_blank" v-bind:href="page.frontmatter.sourceLink">see original →</a></div>
+            <div><a class="button" target="_blank" v-bind:href="page.frontmatter.sourceLink">explore map →</a></div>
             </div> 
         </div>
       </div>
@@ -61,8 +60,8 @@ export default {
     font-weight: bold;
     font-size: 1.25em;
 }
-.post-description {
-  padding:10px 0;
+.page-description {
+  padding:5px 0;
 }
 .list {
   font-weight:550;
