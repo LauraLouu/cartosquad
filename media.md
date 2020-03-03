@@ -185,6 +185,7 @@ The first is focused on innovative approaches inside the GIS industry, second on
 The following portfolio list some impressive work from fellow cartographers and definitely invite to browse their projects! The order is utterly random.
 
 - [juliamia](http://www.juliamia.ch/index_en)  
+- [Ginny Mason](http://ginnymason.com/)
 - [hanshack](http://www.hanshack.com/)  
 - [Laura Lou](http://www.laura-lou.com?lang=eng)  
 - [Jessica Gosling-Goldsmith](http://www.gosling-goldsmith.com/)  
