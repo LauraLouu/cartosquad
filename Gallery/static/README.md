@@ -11,15 +11,7 @@ In future I try to incorporate a categorical sorting mechanism but as for now it
 <!--
 https://www.loc.gov/resource/g9930.ct001880/
 https://www.youtube.com/watch?time_continue=19&v=3Jhac84QdpA
-https://nation.maps.arcgis.com/apps/Cascade/index.html?appid=0706b147ad524c7e86a5894e449338fc
-https://vinepair.com/wine-blog/your-guide-to-the-wine-and-food-of-italy-infographic/
-https://bigthink.com/strange-maps/is-this-world-map-of-dog-breeds-too-eurocentric
 http://www.gocartography.de/?p=7602
-https://adventuresinmapping.com/2018/04/13/animated-tornado-tree-rings/
-https://www.nationalgeographic.com/news/2015/11/151113-virgin-mary-sightings-map/
-http://schwinki.de/splendor/
-https://gizmodo.com/what-five-years-of-drought-have-done-to-the-united-stat-1784701421
-https://www.zeit.de/zeit-magazin/2016/12/deutschlandkarte-hausschlachtungen-fleisch-qualitaet
 https://www.nzz.ch/storytelling/konturen-der-schweiz-die-schweiz-mit-handyantennen-neu-gezeichnet-ld.117913
 https://shop.winefolly.com/collections/regional-wine-maps
 https://www.behance.net/gallery/49616501/Geo-Animation-V1
