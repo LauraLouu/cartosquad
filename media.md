@@ -5,118 +5,45 @@ Keeping up to date with scientific articles and the state of the art ist easily 
 
 Get lost in this abundance of compelling blogs focusing on cartography, geography, maps and GIS! There is no particular order. If there are posts in other languages than english, it is indicated by an emoji flag.
 
-[Geoawesomeness](https://geoawesomeness.com/)  
-Passionate people writing about GIS, maps and everthing surrounding geospatial topics. 
+* [Geoawesomeness](https://geoawesomeness.com/)
+* [The Map Room](https://www.maproomblog.com/)
+* [Digital Geography](http://www.digital-geography.com/)  (:gb: / :de:)
+* [Ian Muehlenhaus' Map Design Blog](http://ian.muehlenhaus.com/category/design-tips-for-cartographers/)
+* [somethingaboutmaps](https://somethingaboutmaps.wordpress.com/)
+* [GIS for thought](https://gisforthought.com/portfolio/)
+* [Adventures in Mapping](https://adventuresinmapping.com/)
+* [GISCafé](http://www.giscafe.com/)  (:gb: / :es:)
+* [GIS News](http://www.gis-news.de/) (:gb: / :de:)
+* [Cartonerd](http://cartonerd.blogspot.com/)
+* [FreeGeographyTools](https://freegeographytools.com/) 
+* [Gretchen Peterson](https://www.gretchenpeterson.com/)
+* [GIS Ninja](http://gisninja.blogspot.com/)
+* [The Afternoon Map](http://www.midafternoonmap.com/)
+* [geomaticblog](https://geomaticblog.net/)
+* [Sound Cartography](https://soundcartography.wordpress.com/) (:gb: / :fr:)
+* [The Wandering Cartographer](https://wanderingcartographer.wordpress.com/)
+* [A Cartographic View](http://cartoview.blogspot.com/)
+* [Maps and the City](http://mapsandthecity.com/)
+* [Art & Cartography](https://artcarto.wordpress.com/)
+* [Making Maps](https://makingmaps.net/)
+* [BIG map blog](http://www.bigmapblog.com/)
+* [Mapperz](http://mapperz.blogspot.com/)
+* [Hannes Blog](http://hannes.enjoys.it/blog/)
+* [Cartography Msc. News](https://cartographymaster.eu/news/)
+* [Brice Wolfgang](http://bricewolfgang.com/index.html)
+* [Blog of Chris Henrick](https://clhenrick.io/blog/)
+* [Esri ArcGIS Blogs](https://www.esri.com/arcgis-blog/overview/)
+* [Lovell Johns](https://www.lovelljohns.com/blog/)
+* [GIS&T Book](https://gistbok.ucgis.org/)
+* [Spatially Adjusted](https://spatiallyadjusted.com/)
+* [The Map Kiwi](https://www.andrewdc.co.nz/blog/)
+* [Big Think Strange Maps](https://bigthink.com/strange-maps/)
+* [3develop](http://www.3develop.nl/blog/category/cartography/)
+* [goCart](http://www.gocartography.de/) (:de:)
+* [GIS Netzwerk](https://www.gis-netzwerk.com/) (:de:)
+* [Landkartenindex](https://landkartenindex.blogspot.com/) (:de:)
+* [GIS is it](https://gisisit.wordpress.com/) (:de:)
 
-[The Map Room](https://www.maproomblog.com/)  
-A classic blog about maps! It's established since 2003.
-
-[Digital Geography](http://www.digital-geography.com/)  (:gb: / :de:)  
-Many authors collaborating to post techniques, reviews and news around GIS and cartography. 
-
-[Ian Muehlenhaus' Map Design Blog](http://ian.muehlenhaus.com/category/design-tips-for-cartographers/)  
-Not only is he an expert in map design and author, he also blogs about and gives tips.
-
-[somethingaboutmaps](https://somethingaboutmaps.wordpress.com/)  
-Daniel Huffman is a cartographer and highlights interesting views on techniques, maps and news.  
-
-[GIS for thought](https://gisforthought.com/portfolio/)  
-A blog about GIS, cartography and remote sensing. 
-
-[Adventures in Mapping](https://adventuresinmapping.com/)  
-Useful tricks and mapping hacks on a simple blog. 
-
-[GISCafé](http://www.giscafe.com/)  (:gb: / :es:)  
-Latest news, product reviews, events and job findings inside the GIS industry are found here. 
-
-[GIS News](http://www.gis-news.de/) (:gb: / :de:)  
-Interesting articles and reviews around the topics of GIS and IT. 
-
-[Cartonerd](http://cartonerd.blogspot.com/)  
-A blog about maps. 
-
-[FreeGeographyTools](https://freegeographytools.com/)  
-With focus on free tools for GIS and geospatial related services, there are also interesting blog posts given, e.g. book reviews, tutorials and more. 
-
-[Gretchen Peterson](https://www.gretchenpeterson.com/)  
-The author of many resourceful books (listed as sources in other sections) also has a blog talking about various things.
-
-[GIS Ninja](http://gisninja.blogspot.com/)  
-M. Brooks, cartographer from New Zealand, shares her insights on different cartographic topics. It has not been recently updated but a few articles are highly interesting!
-
-[The Afternoon Map](http://www.midafternoonmap.com/)  
-A cartography blog. 
-
-[geomaticblog](https://geomaticblog.net/)  
-A few authors coming together to post about relevant topics around geomatics and cartography.
-
-[Sound Cartography](https://soundcartography.wordpress.com/) (:gb: / :fr:)  
-A collection of maps dedicated to sound specific topics. 
-
-[The Wandering Cartographer](https://wanderingcartographer.wordpress.com/)  
-A cartographer blogging about maps, language, travel and more. 
-
-[A Cartographic View](http://cartoview.blogspot.com/)  
-A canadian politician interested in maps and GIS showing off his projects. 
-
-[Maps and the City](http://mapsandthecity.com/)  
-Another blog showcasing interesting findings and reviews found on the internet. 
-
-[Art & Cartography](https://artcarto.wordpress.com/)  
-A blog about the activities of the Art & Cartography Comission of the ICA. 
-
-[Making Maps](https://makingmaps.net/)  
-You have come across the book calles *Making Maps - A Visual Guide to Map Design for GIS*. This is the blog related to the book! 
-
-[BIG map blog](http://www.bigmapblog.com/)  
-A whole blog dedicated to maps!
-
-[Mapperz](http://mapperz.blogspot.com/)  
-A blog with news about maps and GIS. 
-
-[Hannes Blog](http://hannes.enjoys.it/blog/)  
-Hannes writes about his projects in coding and GIS. 
-
-[Cartography Msc. News](https://cartographymaster.eu/news/)  
-News section of the Cartography master programme showcasing projects of their students and what became of the alumni.
-
-[Brice Wolfgang](http://bricewolfgang.com/index.html)  
-A data scientist blogging about his projects. 
-
-[Blog of Chris Henrick](https://clhenrick.io/blog/)  
-Also listed in the portfolio section, Chris Henrick writes compelling blog articles.
-
-[Esri ArcGIS Blogs](https://www.esri.com/arcgis-blog/overview/)  
-Interesting articles about techniques, reviews and maps featuring Esri's software ArcGIS. 
-
-[Lovell Johns](https://www.lovelljohns.com/blog/)  
-A company posting about news, observation inside the industry and reviews. 
-
-[GIS&T Book](https://gistbok.ucgis.org/)  
-A collection of knowledge regarding GIS & Technology.
-
-[Spatially Adjusted](https://spatiallyadjusted.com/)  
-James Lee blogs about many things, sometimes geospatial topics related. 
-
-[The Map Kiwi](https://www.andrewdc.co.nz/blog/)  
-While presenting his own works and projects you get an insight on different cartography techniques maps can be made with.
-
-[Big Think Strange Maps](https://bigthink.com/strange-maps/)
-
-[3develop](http://www.3develop.nl/blog/category/cartography/)  
-Filtered blog posts about cartography showcasing maps on different topics. 
-
-[goCart](http://www.gocartography.de/) (:de:)  
-Cartography enthusiasts coming together to share interesting goods about GIS & maps. 
-
-[GIS Netzwerk](https://www.gis-netzwerk.com/) (:de:)  
-Focusing on news and recents trends this blogs is up to date when it comes to GIS.
-
-[Landkartenindex](https://landkartenindex.blogspot.com/) (:de:)  
-A showcase of interesting maps found on the Internet. 
-
-[GIS is it](https://gisisit.wordpress.com/) (:de:)  
-Former student still blogs about GIS and relevant topics. 
 
 ::: tip 
 Some of the list items were originally found on ["Top 40 Cartography Blogs & Websites for Cartographers To Follow in 2019"](https://blog.feedspot.com/cartography_blogs/) but mostly collected and bookmarked over the years. 
