@@ -1,6 +1,10 @@
 <template>
 <div>
-  <div class="post-container" v-for="page in pages">
+   <select id="categories" v-model="selectedCategory">
+    <option :value="null">All Categories</option>
+    <option v-for="(category,index) in filterCategories" :key="index" :value="category">{{ category }}</option>
+  </select>
+  <div class="post-container" v-for="page in filteredPages">
       <div class="post-card">
         <div class="page-detail">
         <img class="article-image" v-bind:src="page.frontmatter.mapLink" />
@@ -21,17 +25,35 @@
 export default {
   data() {
     return {
-      pages: []
+      pages: [],
+      filterCategories: [],
+      selectedCategory: null
     }
   },
   mounted() {
     this.$site.pages.forEach(page => {
       if (page.frontmatter.type === 'desmap') {
-        this.pages.push(page)
+        this.pages.push(page);
+
+        //filter
+        const categories = page.frontmatter.category.split(', ');
+        categories.forEach(category => {
+          if (!this.filterCategories.includes(category)){
+            this.filterCategories.push(category);
+          }
+        })
       }
     })
     console.log(this.pages);
     
+  },
+  computed: {
+    filteredPages(){
+      return this.selectedCategory ? this.pages.filter((page) => {
+         const categories = page.frontmatter.category.split(', ');
+         return categories.includes(this.selectedCategory);
+      }) : this.pages;
+    }
   }
 }
 </script>
@@ -86,4 +108,12 @@ export default {
   background-color: #123d50;
   color: #ffffff;
 }
+
+#categories {
+  padding: 10px;
+  display: block;
+  margin: 0 auto;
+  font-size: 1em;
+}
+
 </style>
