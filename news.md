@@ -6,3 +6,19 @@ Practicing Vue.js on the way I started collecting and implementing the maps. To 
 
 ## 8. Jan 2020 - Cartosquad going live! (on Netlify)
 I finally figured out how to deploy the site to be able to use the content and contribute from other places than my laptop. There are many construction sites left, but I found myself in situations where I could have used the information I collected here but was unable to access as I only had it locally stored on my laptop. Not anymore! And now everyone is able to gather content. Have fun exploring!
+
+
+# Todo
+- add action links on introduction
+- color palettes 
+- map gallery lighbox 
+- fonts > Labeling & Characteristics
+- Visual Variables
+- Data Classification
+- Map Symbolizations
+- Visual Hierarchy 
+- Basemap Design
+- Generalization & Scale
+- Mini Tutorials
+- Colelction Guides 
+- Data Sources 
