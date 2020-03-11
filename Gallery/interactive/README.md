@@ -5,9 +5,9 @@ My favourite interactive and web maps are listed below with information about so
 
 <!--
 https://www.morgenpost.de/interaktiv/
-
+http://opentrees.org/#pos=11/51.3426/12.3926
 https://www.arcanum.hu/en/mapire/
-
+https://eos.com/landviewer/?lat=51.34191&lng=12.40737&z=11
 https://www.youtube.com/watch?v=h5RY3d_U03A
 
 https://www.amapofthrones.com/
