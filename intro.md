@@ -49,8 +49,8 @@ The world is full of information and people passionate about geospatial data and
 Want to connect to like-minded people or chat about your favourite topic? Apart from national associations there are many online communities where everybody can get in touch with map lovers and GIS enthusiasts. 
 <p style="clear:both;"></p>
 
-### Conferences 
+<!--### Conferences 
 <img src="/assets/img/conference.png" width="100" height="100" style="float: right; margin: 0px 15px 15px 15px;" />
 
 Conferences are important to stay up to date with the development of technology and practices and give opportunity to network in the industry and research. A collection of regularly organized conferences and meet ups is listed in this section. 
-<p style="clear:both;"></p>
+<p style="clear:both;"></p-->

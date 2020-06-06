@@ -93,7 +93,7 @@ module.exports = {
             },
             ['/media', 'Cartography Media'],
             ['/societies', 'Societies & Communities'],
-            '/conferences'
+         //   '/conferences'
         ]
     }
 }

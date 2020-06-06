@@ -19,7 +19,7 @@ On the other hand, color connotations are not universal, meaning colors do not h
 Consider the map purpose or rhetorical appeal of the map to decide if it is necessary to create a wholly new color scheme. If it stands out it certainly attracts attention. Additionally, apart from the purpose of the map keep in mind the environment in which the map is implemented, i.e. is the style corresponding to the web site, the mobile app or operating system? The purpose of the map can be communicated in a more effective way if the design matches that of the surrouding. The so called color echoing by using colors appearing in the map also in elements outside the map ensures that the map is not compete with and instead complemented.
 
 ## Color Hue
-The logical structure of the data should match the perceptual structure of the color palette, meaning that data sets can be arranged in a sequential, diverging or qualitative way.To ensure readability, colors reflecting the data should not correspond badly to the colors of the map. The human eye can only distinguish between five shades of the same color (hue). This is primarily important regarding quantitative data visualizations, as in chloropleth maps, but can also be applied on base maps. Resulting from the previous statement, when categorizing features within a feature class, they should not have more than five divisions.
+The logical structure of the data should match the perceptual structure of the color palette, meaning that data sets can be arranged in a sequential, diverging or qualitative way.To ensure readability, colors reflecting the data should not correspond badly to the colors of the map. The human eye can only distinguish between five shades of the same color (hue). This is primarily important regarding quantitative data visualizations, as in choropleth maps, but can also be applied on base maps. Resulting from the previous statement, when categorizing features within a feature class, they should not have more than five divisions.
 
 ::: tip
 Example: The category or feature class is green areas, the feature types are park, forest, nature reserves, national park, etc.
@@ -88,13 +88,13 @@ Monochromacy
 Probably one of the most used color scheme generator used by cartographers is Colorbrewer. It is possible to pick schemes in single or multi hue for sequential, diverging and qualitative data and even provides color schemes that support ledgibility for user with vision deficiencies. 
 
 [Bivariate Color Matrix](https://cartoscience.github.io/bivariate-color-matrix/)  
-By picking two colors a bivariate color palette is generated for chloropleth mapping, giving an indication about differentation with a minimum Delta E variable. 
+By picking two colors a bivariate color palette is generated for choropleth mapping, giving an indication about differentation with a minimum Delta E variable. 
 
 [Adobe Color](https://color.adobe.com/de/explore)  
 Adobe's online tool to create and explore palettes of color. 
 
 [Color picker for data](http://tristen.ca/hcl-picker/#/hlc/6/1.05/CAF270/453B52)  
-After picking a color a scheme is generated, which is also aimed for chloropleth mapping.
+After picking a color a scheme is generated, which is also aimed for choropleth mapping.
 
 [Chroma.js Color Palette Helper](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)  
 By selecting what kind of color scheme is wanted (diverging, sequential) and providing at least two colors a multi-hued color scale is generated for visualizing data. 

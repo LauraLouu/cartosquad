@@ -133,63 +133,29 @@ For further reading have a look at [Choosing a projection](http://www.geography.
 :::
 
 
-### Continents 
-| Georeferencing | EPSG Code |
-|----|---|
-|ETRS89 / LCC **Europe** | [3034](https://epsg.io/3034)|
+### Overview
+| Area | Georeferencing | EPSG Code |
+|----|---| ---- |
+| Europe |ETRS89 / LCC **Europe** | [3034](https://epsg.io/3034)|
+| Austria |MGI / Austria M28 | [31284](https://epsg.io/31284)|
+| Austria |MGI / Austria M31 | [31285](https://epsg.io/31285)|
+| Austria |MGI / Austria M34 | [31286](https://epsg.io/31286)|
+| Germany | Geographical coordinates in decimals: WGS84, ETRS89 | [4326](https://epsg.io/4326), [4258](https://epsg.io/4258) |
+| Germany | DHDN / 3-degree Gauss-Kruger nth zone (zone 2 to 5), Bessel Ellipsoid | [31466](https://epsg.io/31466) - [31469](https://epsg.io/31469) |
+| Germany | UTM Zone 32 and 33 without easting, Ellipsoid GRS80 | [25832](https://epsg.io/25832), [25833](https://epsg.io/25833) |
+| Germany | UTM Zone 32 and 33 with easting, Ellipsoid GRS80| [4647](https://epsg.io/4647), [5650](https://epsg.io/5650)|
+| Germany | Lambert conformal conic projection, Ellipsoid WGS84 | [4839](https://epsg.io/4839)
+| Great Britain |British National Grid |[27700](https://epsg.io/27700)|
+| Iraq |Iraq National Grid |[3893](https://epsg.io/3893)|
+| Netherlands | Amersfoort / RD New -- Netherlands - Holland - Dutch |[28992](https://epsg.io/28992)|
+| New Zealand | NZGD2000 / New Zealand Transverse Mercator 2000 -- New Zealand Transverse Mercator (NZTM)| [2193](https://epsg.io/2193) |
+| New Zealand | NZGD2000 Meridional Circuits | [4959](https://epsg.io/4959)| 
 
-### Austria 
-
-| Georeferencing | EPSG Code |
-|----|---|
-|MGI / Austria M28 | [31284](https://epsg.io/31284)|
-|MGI / Austria M31 | [31285](https://epsg.io/31285)|
-|MGI / Austria M34 | [31286](https://epsg.io/31286)|
-
-
-### Germany
-
-| Georeferencing | EPSG Code |
-|----|---|
-| Geographical coordinates in decimals: WGS84, ETRS89 | [4326](https://epsg.io/4326), [4258](https://epsg.io/4258) |
-| DHDN / 3-degree Gauss-Kruger nth zone (zone 2 to 5), Bessel Ellipsoid | [31466](https://epsg.io/31466) - [31469](https://epsg.io/31469) |
-| UTM Zone 32 and 33 without easting, Ellipsoid GRS80 | [25832](https://epsg.io/25832), [25833](https://epsg.io/25833) |
-| UTM Zone 32 and 33 with easting, Ellipsoid GRS80| [4647](https://epsg.io/4647), [5650](https://epsg.io/5650)|
-| Lambert conformal conic projection, Ellipsoid WGS84 | [4839](https://epsg.io/4839)
-
-### Great Britain
-| Georeferencing | EPSG Code |
-|----|---|
-|British National Grid |[27700](https://epsg.io/27700)|
-
-
-### Iraq
-| Georeferencing | EPSG Code |
-|----|---|
-|Iraq National Grid |[3893](https://epsg.io/3893)|
-
-### Netherlands 
-| Georeferencing | EPSG Code |
-|----|---|
-|Amersfoort / RD New -- Netherlands - Holland - Dutch |[28992](https://epsg.io/28992)|
-
-### New Zealand
-
-see [Land Information New Zealand: Projections](https://www.linz.govt.nz/data/geodetic-system/datums-projections-and-heights/projections).
-
-| Georeferencing | EPSG Code |
-|----|---|
-|NZGD2000 / New Zealand Transverse Mercator 2000 -- New Zealand Transverse Mercator (NZTM)| [2193](https://epsg.io/2193) |
-| NZGD2000 Meridional Circuits | [4959](https://epsg.io/4959)| 
-
-### USA
-| Georeferencing | EPSG Code |
-|----|---|
-
-TODO: State Plane Coordinate System, United States National Grid
 
 ::: danger TODO
-This part is under construction!
+This part is under construction!  
+USA: State Plane Coordinate System, United States National Grid  
+New Zealand > see [Land Information New Zealand: Projections](https://www.linz.govt.nz/data/geodetic-system/datums-projections-and-heights/projections).
 :::
 
 ## Useful Tools 

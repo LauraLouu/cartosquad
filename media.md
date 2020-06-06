@@ -122,6 +122,7 @@ The following portfolio list some impressive work from fellow cartographers and 
 - [Andy Woodruff](https://andywoodruff.com/)  
 - [Parker Ziegler](https://parkerziegler.com/)  
 - [Radical Cartography](http://www.radicalcartography.net/)
+- [Mathias Leroy](https://mathiasleroy.com/)
 - [The Map Kiwi Portfolio](https://www.andrewdc.co.nz/my-portfolio/)  
 - [Chris Henrick Cartography](https://clhenrick.io/) [old](http://chrishenrick.com/)  
 - [Halycon Maps](https://www.halcyonmaps.com/)
