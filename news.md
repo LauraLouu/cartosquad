@@ -17,7 +17,6 @@ I finally figured out how to deploy the site to be able to use the content and c
 - map gallery lighbox 
 - fonts > Labeling & Characteristics
 - Visual Variables
-- Data Classification
 - Map Symbolizations
 - Visual Hierarchy 
 - Basemap Design
