@@ -23,11 +23,18 @@ Jenks & Coulson (1963) suggested 5 rules for data classification.  Their rules s
 ### Equal Interval Classification
 Equal intervals group data defined by a specified data value. The intervals are equally spaced apart. This is especially useful for data that is distributed evenly. A nice legend with comprehensible values and simple class boundaries. If the data on the other hand is not distributed equally the classes can emphasize a biased interpretation of the data. 
 
+![Equal Interval](/assets/img/class/equal.png)
+
 ### Quantile Classification
 When looking for break points that categorize the data equally in number, quantile classification is used for that. Each class includes the same amount of features. The data is sorted from lowest to highest based on a value and divide them into a number of classes.  For example I have 150 data records and I want to group them into 5 classes. Therefore the lowest 30 features are categorized into the first quintile, the next 30 are grouped together into the second, and so on. Use cases include the emphatization of relative positions and exaggerate differences, such as income data. Difficulties with this method arise when features of a wide range are grouped together in a quantile minimizing their differences. The reverse case is possible, too: two similar values get grouped into different classes because they are close together but divided by a breaking point. Therefore the depiction of the data can indicate a significant difference between those values, when there is not. 
 
+![Quantile](/assets/img/class/quantile.png)
+
 ### Natural Breaks (Jenks)
 The analyzation of data sets can reveal a pattern in the data distribution to reveal significant break points for natural groupings. Clumps of data are grouped together or spaces in the histogram break the data into groups. Mathmatical methods and complicated algorithms reveal such breaks and with the help of software (e.g. GIS) this can be easily done and is useful when data is not evenly distributed. It works well to represent such data but is not easily comprehensible by users as the classes do not have equal steps or equal amount of features, so that a manual revision could be needed to balance it out. 
+
+![Natural Breaks](/assets/img/class/natural.png)
+
 
 ### Standard Deviation 
 Standard deviation is a number that states how far below or above a value is from the mean or average. Therefore not the definite value is used to be classified but a relative number and its multiple according to the value. The standard deviation classification method sorts the data based on this number for that distribution of data. It is useful for data with numerical values showing particular interests such as the distribution of income levels of areas to the average. The data for such should have a normal distribution, because outliers can skew the mean.
@@ -42,6 +49,9 @@ There are situations where the breaks have to be set by the mapper.
 - the map is part of the series with the same range 
 - none of the methods above resemble the data close enough
 :::
+
+![Manual](/assets/img/class/manual.png)
+
 
 ## Number of Quantiles
 How many classes are needed? How many are too much? With the number of classes the degree of map generalization is set: the more classes are used, the less generalization is happening, which is generally good, but mostly cause a confusing and too complex visualization. If too few quantiles are used, details are missed and the data is simplified, which might not be wanted. 
