@@ -1,6 +1,12 @@
 # What's new
 In this section news and interesting findings are listed, that have been added to the collection. 
 
+## 8 Jun 2020 - Color Schemes visualized
+[Here](Guide/colorramps) is a starting collection of color schemes with visual examples depending on use case (for now base map and choropleth maps). The colors are given in HEX and RGB. The collection will be updated continously. 
+
+![color palettes](/assets/img/colorramps.png)
+
+
 ## 6 Jun 2020 - Picking up Work again
 After some exciting months with a lot of change regarding plans, job, etc. due to COVID-19, I am now able to continue working on Cartosquad. Theory studies are being worked on, tutorials will be included, techniques outlined and content updated, such as the conference overview (is deleted for now). 
 
@@ -13,7 +19,6 @@ I finally figured out how to deploy the site to be able to use the content and c
 
 # Todo
 - add action links on introduction
-- color palettes 
 - map gallery lighbox 
 - fonts > Labeling & Characteristics
 - Visual Variables

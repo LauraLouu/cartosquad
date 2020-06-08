@@ -36,28 +36,28 @@ module.exports = {
                 title: 'Cartography Guides',
                 collapsable: true,
                 children: [
-                    // '/Guide/',
-                    '/Guide/color', ['/Guide/typeface', 'Font on maps'],
+                     '/Guide/color',
+                    ['/Guide/typeface', 'Font on maps'],
                     '/Guide/visvar',
                     '/Guide/classification',
                     {
                         title: 'Map Symbolizations',
                         path: '/Guide/symbols',
-                        collapsable: false,
+                        collapsable: true,
                         children: [
                             '/Guide/points',
                             '/Guide/lines',
-                            '/Guide/areas',
-                            '/Guide/terrain',
-                            '/Guide/3d',
-                            '/Guide/temporalAnimation'
+                            '/Guide/areas'//,
+                          //  '/Guide/terrain',
+                          //  '/Guide/3d',
+                          //  '/Guide/temporalAnimation'
                         ]
                     },
-                    '/Guide/vishier', ['/Guide/basemap', 'Basemap Design'],
+                   // '/Guide/vishier', ['/Guide/basemap', 'Basemap Design'],
                     '/Guide/projections',
-                    '/Guide/gen', ['/Guide/examples', 'Good & Bad Map Examples'],
-                    '/Guide/ownTuts',
-                    '/Guide/courses'
+                   // '/Guide/gen', ['/Guide/examples', 'Good & Bad Map Examples'],
+                   // '/Guide/ownTuts',
+                   // '/Guide/courses'
                 ]
             }, {
                 title: 'Tools & Software',
@@ -92,7 +92,7 @@ module.exports = {
                 ]
             },
             ['/media', 'Cartography Media'],
-            ['/societies', 'Societies & Communities'],
+            ['/societies', 'Societies & Communities']//,
          //   '/conferences'
         ]
     }

@@ -1,3 +1,7 @@
+---
+sidebarDepth: 2
+---
+
 # Color in maps
 
 Selecting colors is one of the most important step when designing a map. There are reasons why color should not be seen as an afterthought in map design but rather as one of the intermediate stages:
@@ -115,7 +119,9 @@ Create color combinations and palettes that work well together.
 A community, that share colors, palettes and patters. 
 
 ## Color Palettes Collection
-A collection of usable color palettes on maps are found [here](/Guide/colorramps)
+A collection of usable color palettes on maps are found __[here](/Guide/colorramps)__
+
+![color palettes](/assets/img/colorramps.png)
 
 ### References
 - Axis Maps. *[Using Colors on Maps](https://www.axismaps.com/guide/general/using-colors-on-maps/)* (accessed 15 Aug 2019). 
