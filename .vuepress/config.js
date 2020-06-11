@@ -34,26 +34,16 @@ module.exports = {
         ],
         sidebar: [{
                 title: 'Cartography Guides',
+                path: '/Guide',
                 collapsable: true,
                 children: [
                      '/Guide/color',
                     ['/Guide/typeface', 'Font on maps'],
                     '/Guide/visvar',
                     '/Guide/classification',
-                    {
-                        title: 'Map Symbolizations',
-                        path: '/Guide/symbols',
-                        collapsable: true,
-                        children: [
-                            '/Guide/points',
-                            '/Guide/lines',
-                            '/Guide/areas'//,
-                          //  '/Guide/terrain',
-                          //  '/Guide/3d',
-                          //  '/Guide/temporalAnimation'
-                        ]
-                    },
-                   // '/Guide/vishier', ['/Guide/basemap', 'Basemap Design'],
+                    '/Guide/symbols',
+                    '/Guide/maptypes',
+                   // '/Guide/vishier', '/Guide/basemap',
                     '/Guide/projections',
                    // '/Guide/gen', ['/Guide/examples', 'Good & Bad Map Examples'],
                    // '/Guide/ownTuts',

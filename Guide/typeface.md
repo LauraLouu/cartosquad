@@ -1,10 +1,14 @@
 # Typeface and Fonts in Map Design
 
-::: tip 
 Both terms (typeface & font) are commonly misused, but in literature and on the web, it seems, that people do not make a distinction between them. **Typeface** is a set of letters and numbers (glyphs) with a unique appearance, e.g. *Arial* or *Times New Roman*. **Font** describes the  styling parameters of a typeface, e.g. *Arial 10pt bold*. 
-:::
 
 Apart from color an important map design component is text: **labels, title** and **legend entries**. As with every layout decision create a certain mood and impression on the overall map, so it needs to be kept in mind what font is suited the best for the purpose. 
+
+
+::: tip Table of Contents
+[[toc]]
+:::
+
 
 ## Type personality
 

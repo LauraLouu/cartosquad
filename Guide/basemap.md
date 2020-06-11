@@ -1,4 +1,4 @@
-# Basemap Design 
+# Base Map Design & Multi-Scale Maps
 
 ::: danger TODO
 This site is under construction!

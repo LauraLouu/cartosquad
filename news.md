@@ -18,13 +18,14 @@ I finally figured out how to deploy the site to be able to use the content and c
 
 
 # Todo
-- add action links on introduction
 - map gallery lighbox 
 - fonts > Labeling & Characteristics
-- Visual Variables
+- font pairs 
 - Map Symbolizations
 - Visual Hierarchy 
 - Basemap Design
+- map symbols pics
+- map types 
 - Generalization & Scale
 - Mini Tutorials
 - Collection Guides 

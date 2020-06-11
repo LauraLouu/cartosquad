@@ -4,31 +4,31 @@
 <div v-for="i in items">
     <h2><a :href="i.url" target="_blank"> {{i.name}}</a></h2>
     <div id="colorcontainer">
-        <div>
+        <div class="c1">
             <code>{{i.hex1}}</code><br />
             <code>rgb({{i.rgb1}})</code>
         </div>
-        <div>
+        <div class="c2">
             <code>{{i.hex2}}</code><br />
             <code>rgb({{i.rgb2}})</code>
         </div>
-        <div>
+        <div class="c3">
             <code>{{i.hex3}}</code><br />
             <code>rgb({{i.rgb3}})</code>
         </div>
-        <div>
+        <div class="c4">
             <code>{{i.hex4}}</code><br />
             <code>rgb({{i.rgb4}})</code>
         </div>
-        <div>
+        <div class="c5">
             <code>{{i.hex5}}</code><br />
             <code>rgb({{i.rgb5}})</code>
         </div>
-        <div class="color" v-bind:style="{backgroundColor : i.hex1}"></div>
-        <div class="color" v-bind:style="{backgroundColor : i.hex2}"></div>
-        <div class="color" v-bind:style="{backgroundColor : i.hex3}"></div>
-        <div class="color" v-bind:style="{backgroundColor : i.hex4}"></div>
-        <div class="color" v-bind:style="{backgroundColor : i.hex5}"></div>
+        <div class="color cc1" v-bind:style="{backgroundColor : i.hex1}"></div>
+        <div class="color cc2" v-bind:style="{backgroundColor : i.hex2}"></div>
+        <div class="color cc3" v-bind:style="{backgroundColor : i.hex3}"></div>
+        <div class="color cc4" v-bind:style="{backgroundColor : i.hex4}"></div>
+        <div class="color cc5" v-bind:style="{backgroundColor : i.hex5}"></div>
     </div>
     <div v-if="i.use === 'base'">
         <svg xmlns="http://www.w3.org/2000/svg"
@@ -75,7 +75,7 @@
             </g>
         </svg>
     </div>
-    <div v-else-if="i.use === 'choro'">
+    <div v-else="i.use === 'choro'">
          <svg xmlns="http://www.w3.org/2000/svg"
             width="100%"
             height="100%"
@@ -739,12 +739,14 @@ export default {
 }
 </script>
 <style scoped>
+@media (min-width: 1101px){
 #colorcontainer{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr;
     grid-gap: 5px;
     margin-bottom:10px;
+}
 }
 .color{
     border:1px solid #eee;
@@ -754,4 +756,56 @@ export default {
 #colorcontainer div {
     padding: 5px;
     }
+
+@media (max-width: 1100px) {
+  #colorcontainer {
+        display:grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr;
+        grid-gap: 5px;
+        margin-bottom:10px;
+  }
+
+  .cc1 {
+      grid-row: 1/2;
+      grid-column: 1/2;
+  }
+  .c1 {
+      grid-row: 1/2;
+      grid-column: 2/3;
+  }
+
+  .cc2 {
+      grid-row: 2/3;
+      grid-column: 1/2;
+  }
+  .c2 {
+      grid-row: 2/3;
+      grid-column: 2/3;
+  }
+  .cc3 {
+      grid-row: 3/4;
+      grid-column: 1/2;
+  }
+  .c3 {
+      grid-row: 3/4;
+      grid-column: 2/3;
+  }
+  .cc4 {
+      grid-row: 4/5;
+      grid-column: 1/2;
+  }
+  .c4 {
+      grid-row: 4/5;
+      grid-column: 2/3;
+  }
+  .cc5 {
+      grid-row: 5/6;
+      grid-column: 1/2;
+  }
+  .c5 {
+      grid-row: 5/6;
+      grid-column: 2/3;
+  }
+}
 </style>

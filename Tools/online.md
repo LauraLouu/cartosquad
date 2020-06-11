@@ -1,10 +1,13 @@
-# Online Tools
+# Useful Tools
+This collaboration of tools help with small tasks surrounding the map making process. 
 
 ## Map Creation
 
 [ScribbleMaps](https://www.scribblemaps.com/)  
+Create a map in few simple steps to share with others.  
 
-[StepMap](https://www.stepmap.de/)
+[StepMap](https://www.stepmap.de/)  
+Another tool to create simple maps in easy steps. 
 
 ## Data Extraction
 
@@ -28,12 +31,13 @@ Map adresses to actual locations in batches with this online tool.
 ## Misc
 
 [Datawrapper](https://www.datawrapper.de/)  
+A commercial and easy-to-use interface to easily create data visualizations and maps with your data. 
 
 [Getty Thesaurus of Geographic Names online](http://www.getty.edu/research/tools/vocabularies/tgn/)  
 The collection of vocabularies provides geographical names to improve terminology and addtitional information of geographic objects. Searching a geographic feature provides terminology in different languages, coordiantes and historical information. 
 
-[Cartography Assets](https://www.cartographyassets.com/)
-
+[Cartography Assets](https://www.cartographyassets.com/)  
+A forum to share map making ressources for imaginary and fantasy maps. 
 
 ## Non-Cartography 
 These tool are more focused on design but turned out to be useful for certain map making techniques and web development. 

@@ -1,7 +1,3 @@
----
-sidebarDepth: 2
----
-
 # Color in maps
 
 Selecting colors is one of the most important step when designing a map. There are reasons why color should not be seen as an afterthought in map design but rather as one of the intermediate stages:
@@ -12,6 +8,12 @@ Selecting colors is one of the most important step when designing a map. There a
 - color is part of the visual levels of a map and unifies the design
 
 To choose a color some preliminary considerations are attached. They impact a user psychologically and emotionally based on associations with experiences made in life, personal preferences and cultural influences. The map designer needs to know the meaning of the color, to prompt the desired reaction to a map. 
+
+
+::: tip Table of Contents
+[[toc]]
+:::
+
 
 ## Color Connotations
 Large online mapping services (e.g. Google, OSM) have similar standardizations in color schemes with slight differences and are known by most users. It is favourable to orient on the existing styles to produce familiarity for the user reducing the need to learn a new set of color references. Intuitive viewing and automatic referencing is what a mapper should aim for. That being said, there are color connotations that most map readers assign unconsciously and should be kept in mind. Most obvious example would be to not assign the color blue to any feature other than water bodies. 

@@ -5,32 +5,34 @@
 Cartographers should pay special attention to match a design between the different symbols as the smallest details can change how the geographical data is interpreted. The individual feature groups demand a different combination of Bertin’s visual variables (see below). J. Bertin proposed these variables in 1983 to differentiate the symbols by values and characteristics they represent. Often other variables such as spacing, focus, and arrangement are mentioned. As for shading and transparency are often used to develop a feeling of a third dimension, as shadows enhance immersion creating a contrast between object and background and inviting the user to click on it. Transparency on the other hand often occurs when objects are “faded out” to cease distraction and let the user focus on other information.
 
 
-::: danger TODO
-This part is under construction!
-:::
-
 ## Characteristics
 When considering styling an object with these variables, the purpose should be considered. Depending on that, some variables are more suited than others. Characteristic supporting certein purposes are:
 
-1. **Selective**: A group of symbols is perceived as such based on a change in the variable, i.e. a category can be given to the group. 
+### Selective 
+A group of symbols is perceived as such based on a change in the variable, i.e. a category can be given to the group. 
 
-![selective](PATH TO IMAGE)
+![selective](/assets/img/map-coll/crocbiteSpecies.png)
 
-2. **Associative**: A variable is associative if the user is able to group symbols despite changes in other variables, e.g. different shaped symbols in a certain color can be either grouped by shape or color. 
+The example above highlights the categories (species names of crocodiles) by color. The corresponding species can be singled our as a group.  
 
-![associative](PATH TO IMAGE)
+### **Associative**
+A variable is associative if the user is able to group symbols despite changes in other variables, e.g. different shaped symbols in a certain color can be either grouped by shape or color. 
 
-3. **Order**: If objects can be easily recognized as sequence, meaning the symbols can be ordered by their difference, it is an ordered variable. 
+![associative](/assets/img/map-coll/crocbiteSpeciesTypes.png)
 
-![order](PATH TO IMAGE)
+Again using the example of crocodile attacks a second variable is changed (shape). The various species are still grouped by color and can now categorized by the type of outcome as well.
 
-4. **Quantitative**: A visual variable is considered quantitative if a numerical difference can be derived. 
+### Order & Quantitative
+**Order**: If objects can be easily recognized as sequence, meaning the symbols can be ordered by their difference, it is an ordered variable. 
 
-![quantitative](PATH TO IMAGE)
+**Quantitative**: A visual variable is considered quantitative if a numerical difference can be derived. 
 
-5. **Length**: The amount of values is defined by length, i.e. how many distinctions are perceptible. 
+![order and quantitative](/assets/img/map-coll/crocbiteSize.png)
 
-![length](PATH TO IMAGE)
+The crocodile attacks are now categorized by specimen size. A ranking can be obtained (from small to large) as well as a numerical value. Therefore this visualization is  
+
+### Length
+The amount of values is defined by length, i.e. how many distinctions are perceptible. 
 
 
 ## Variables 
@@ -74,7 +76,7 @@ When considering styling an object with these variables, the purpose should be c
 
 
 ### References
-- Axis Maps. *[Visual Hierarchy](https://www.axismaps.com/guide/general/visual-hierarchy/)* (accessed 14 Aug 2019).
+- Axis Maps. *[Visual Variables](https://www.axismaps.com/guide/general/visual-variables/)* (accessed 14 Aug 2019).
 - Brewer, C. A., 2016. *Designing better maps - A guide for GIS users*. 2nd Edition ed. Redlands: Esri Press.
 - Dent, B. D., Torguson, J. S. & Hodler, T. W., 2009. *Cartography - Thematic Map Design*. 6th Edition ed. New York: McGraw-Hill.
 - Kraak, M.-J. & Ormeling, F., 2003. *Cartography - Visualization of Geospatial Data*. 2nd Edition ed. Essex: Pearson Education Limited.

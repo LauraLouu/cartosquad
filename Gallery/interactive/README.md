@@ -1,4 +1,4 @@
-# Map-Gallery: Static Maps
+# Map-Gallery: Interactive Web Maps
 My favourite interactive and web maps are listed below with information about source and depicted places as well as a short description. Enjoy exploring!
 
 <galleryLayoutWM/>
