@@ -1,4 +1,4 @@
-# Gallery
+# Map Gallery
 There are so many unbelievably good maps ans original ideas illustrated amazingly that it is hardly possible to collaborate everything. Following is the beginning of my collection I gathered over the years through research, social media, and forums. 
 
 ## Interactive Web Maps

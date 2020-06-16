@@ -51,6 +51,7 @@ module.exports = {
                 ]
             }, {
                 title: 'Tools & Software',
+                path: '/Tools',
                 collapsable: true,
                 children: [
                     ['/Tools/software', 'Desktop software'],
@@ -75,6 +76,7 @@ module.exports = {
             {
                 title: 'Map Gallery',
                 collapsable: true,
+                path: '/Gallery',
                 children: [
                     ['/Gallery/interactive/', 'Interactive Web Maps'],
                     ['/Gallery/static/', 'Static Maps'],
