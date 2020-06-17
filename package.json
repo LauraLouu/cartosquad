@@ -20,7 +20,8 @@
     "homepage": "https://github.com/LauraLouu/cartosquad#readme",
     "dependencies": {
         "@vuepress/core": "^1.5.0",
-        "vuepress": "^1.0.3"
+        "vuepress": "^1.0.3",
+        "webfontloader": "^1.6.28"
     },
     "devDependencies": {
         "@vuepress/plugin-back-to-top": "^1.3.0",

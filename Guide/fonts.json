@@ -1,0 +1,12 @@
+[
+    {
+        "font": "Montserrat",
+        "pairsWith": ["Cardo", "Crimson Text", "Domine", "Roboto", "Railway", "Lato"],
+        "source": "https://fontpair.co/fonts/montserrat"
+    }, 
+    {
+        "font": "Roboto",
+        "pairsWith":["Open Sans", "Lato", "Roboto Slab", "Raleway", "Nunito"],
+        "source": "https://fontpair.co/fonts/roboto"
+    }
+]

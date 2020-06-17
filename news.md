@@ -1,6 +1,12 @@
 # What's new
 In this section news and interesting findings are listed, that have been added to the collection. 
 
+## 17 Jun 2020 - Beginning of Font Pairing Collection
+I started to compile my collection of font pairs. Furthermore it is planned to see a map example similar to [Color Schemes](Guide/colorramps) with direct usage of these font families. 
+
+## 11 Jun 2020 - Visual Variables Guide has now Examples
+To illustrate my understanding of the topic I tried to apply it on some simple maps. These are now featured in the [article](Guide/visvar).
+
 ## 8 Jun 2020 - Color Schemes visualized
 [Here](Guide/colorramps) is a starting collection of color schemes with visual examples depending on use case (for now base map and choropleth maps). The colors are given in HEX and RGB. The collection will be updated continously. 
 
