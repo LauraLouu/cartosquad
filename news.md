@@ -2,7 +2,7 @@
 In this section news and interesting findings are listed, that have been added to the collection. 
 
 ## 17 Jun 2020 - Beginning of Font Pairing Collection
-I started to compile my collection of font pairs. Furthermore it is planned to see a map example similar to [Color Schemes](Guide/colorramps) with direct usage of these font families. 
+I started to compile my collection of [font pairs](Guide/fontpair). Furthermore it is planned to see a map example similar to [Color Schemes](Guide/colorramps) with direct usage of these font families. 
 
 ## 11 Jun 2020 - Visual Variables Guide has now Examples
 To illustrate my understanding of the topic I tried to apply it on some simple maps. These are now featured in the [article](Guide/visvar).

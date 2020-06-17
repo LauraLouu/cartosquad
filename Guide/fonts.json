@@ -2,11 +2,19 @@
     {
         "font": "Montserrat",
         "pairsWith": ["Cardo", "Crimson Text", "Domine", "Roboto", "Railway", "Lato"],
-        "source": "https://fontpair.co/fonts/montserrat"
+        "fontpair": "https://fontpair.co/fonts/montserrat",
+        "google": "https://fonts.google.com/specimen/Montserrat"
     }, 
     {
         "font": "Roboto",
         "pairsWith":["Open Sans", "Lato", "Roboto Slab", "Raleway", "Nunito"],
-        "source": "https://fontpair.co/fonts/roboto"
+        "fontpair": "https://fontpair.co/fonts/roboto",
+        "google": "https://fonts.google.com/specimen/Roboto"
+    }, 
+    {
+        "font": "Noto Sans",
+        "pairsWith":["Open Sans", "Roboto", "Noto Serif", "Source Sans Pro"],
+        "fontpair": "",
+        "google": "https://fonts.google.com/specimen/Noto+Sans"
     }
 ]

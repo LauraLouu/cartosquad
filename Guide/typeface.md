@@ -108,6 +108,10 @@ This part is under construction!
 - [Creative Bloq: "33 perfect font pairings"](https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120)
 - [Typ.io](http://typ.io/)
 
+::: tip Collection of Font Pairs 
+Have a look at my collection of complementing fonts [here](fontpair).
+:::
+
 ### Games to train your Font Skills
 
 - [Type Connection](http://www.typeconnection.com/): train your skills of font pairing with this game. 
