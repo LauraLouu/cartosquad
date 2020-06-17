@@ -50,7 +50,9 @@ var WebFont = require('webfontloader');
 data.forEach(function(d){
     fonts.push(d.font);
     d.pairsWith.forEach(function(f){
-        fonts.push(f);
+        if (!fonts.includes(f)){
+          fonts.push(f);
+        }
     });
 });
 WebFont.load({

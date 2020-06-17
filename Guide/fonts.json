@@ -16,5 +16,11 @@
         "pairsWith":["Open Sans", "Roboto", "Noto Serif", "Source Sans Pro"],
         "fontpair": "",
         "google": "https://fonts.google.com/specimen/Noto+Sans"
+    }, 
+    {
+        "font": "Laila",
+        "pairsWith":["Cantarell", "Roboto", "Lato"],
+        "fontpair": "",
+        "google": "https://fonts.google.com/specimen/Laila"
     }
 ]
