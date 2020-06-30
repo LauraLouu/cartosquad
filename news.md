@@ -1,6 +1,11 @@
 # What's new
 In this section news and interesting findings are listed, that have been added to the collection. 
 
+## 30 Jun 2020 - Font Pairing Collection extended
+The [font pair](Guide/fontpair) collection now has an practical example of a map and font styles with each family. This was inspired from Gretchen Peterson's book [Cartographer's Toolkit](https://www.amazon.com/Cartographers-Toolkit-Colors-Typography-Patterns/dp/0615467946/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=pe03-20&linkId=81f589a8f8f6ee38f4b9cd7aecf361d2). The area depicted in the map is a part of Port Hunter north of Newcastle, NSW, Australia.
+
+![font pairs](/assets/img/fontpairs.png)
+
 ## 17 Jun 2020 - Beginning of Font Pairing Collection
 I started to compile my collection of [font pairs](Guide/fontpair). Furthermore it is planned to see a map example similar to [Color Schemes](Guide/colorramps) with direct usage of these font families. 
 
