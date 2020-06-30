@@ -31,7 +31,6 @@ I finally figured out how to deploy the site to be able to use the content and c
 # Todo
 - map gallery lighbox 
 - fonts > Labeling & Characteristics
-- font pairs 
 - Map Symbolizations
 - Visual Hierarchy 
 - Basemap Design
