@@ -44,6 +44,8 @@ A point symbol marking a position of an object is used, when it is impossible to
 **Geometric Symbols**  
 Often used geometric shapes are circular disc, circular ring, triangle, rectangle, square, less often pentagon, hexagon and star, but also combinations of lines such as cross are used. This type of symbolization is mainly used to clarify a differentiation, i.e. to distinguish qualities. Different colors highlight related subject groups. If there is a size differentiation, the quantities are designated by different size intervals.
 
+![berlin energy](/assets/img/map-coll/berlinEnergy.png)
+
 **Icon Symbols**  
 Icon symbols, also referred to as figure or pictogram symbols, are small graphical figures, the appearance and partly the color of which represent the object depicted graphically, or are derived directly from its appearance. They are therefore also referred to as pictorial signatures.
 
@@ -66,6 +68,8 @@ Because the diagram method refers to a point, there is a need to keep the diagra
 **Dot Density**  
 The dot density method is used for the graphical representation of statistical values that relate to an area-distributed mass phenomenon. There is either a schematic distribution of the points within a reference surface or, if possible, an exact distribution of the facts can be recorded with the given point values.
 A distinction is made graphically in this symbolization in size, shape and density. The circular disks or quadrants have a size of 0.3 to 1 mm. The individual points embody a defined amount of the object or situation to be displayed. Density is represented by density points or varying point sizes with different point values
+
+![berlin dotdensity](/assets/img/map-coll/berlin_dotmap.png)
 
 ### Ressources for Map Markers
 - [MapkeyIcons](http://mapkeyicons.com/)
@@ -124,17 +128,18 @@ Cartogram use colors or patterns to embody concrete, quantitative values. The va
 
 By analyzing the individual values, value groups can be determined (see [Data Classification](/Guide/classification)), which can be graded by color intensity with or without hatching and patterns, which are between three and 15 density levels. However, it should be noted that an increasing intensity of the design feature carries with it an increasing importance of the message.
 
+![berlin energy consumption](/assets/img/map-coll/berlinenerverbr.png)
+
 ### Map Diagramm
 Map diagrams use diagrams of statistical values, which in contrast to the [diagram method](#other-forms-of-point-symbol-usage) refer to areas, which is why no statements can be made about individual values. This also applies to the area map diagrams, with the difference that absolute quantitative representations are not possible.
 It enables two to three different features to be compared easily and quickly in terms of territory.
 
+![berlin energy sum](/assets/img/map-coll/berlinEnergySup.png)
+
+
 <!--
-
 ## 3D Data Visualization
-
-
 ## Terrain Visualization
-
 ## Temporal Data and Animation-->
 
 ## References 

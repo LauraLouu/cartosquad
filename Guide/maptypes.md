@@ -52,13 +52,12 @@ In isoplet maps isolines are used connecting points of the same value.
 ## Area 
 ### Choropleth Maps
 
-Choropleth maps show areas symbolized by a color progression depicting a continous variable. It should be used to compare enumeriation areas. A graduated color scale is used for these maps and is explained in the legend to distinct the ranges. Background information is reduced to a minimum. Its simplicity in making a choropleth map is challenged by the selection of data class intervals as it can influence the outcome immensly (see figure below). Gretchen N. Peterson illustrates in her book *[Cartographer's Toolkit](https://www.amazon.com/Cartographers-Toolkit-Colors-Typography-Patterns/dp/0615467946/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=pe03-20&linkId=81f589a8f8f6ee38f4b9cd7aecf361d2)* the different methods to break data sets as well as its use case, advantages and disadvantages. 
-
-<!--Insert table (ask permission)? ![intervals](PATH TO IMAGE) -->
+Choropleth maps show areas symbolized by a color progression depicting a continous variable. It should be used to compare enumeriation areas. A graduated color scale is used for these maps and is explained in the legend to distinct the ranges. Background information is reduced to a minimum. Its simplicity in making a choropleth map is challenged by the selection of data class intervals as it can influence the outcome immensly (see [article](Guide/classification) on data classification).  
 
 ::: tip NOTE
 Choropleth maps are not limited for areas but can also be applied to line or point features! Area choropleth maps are the most distributed form.
 :::
+
 ### Cartograms
 Cartograms visualize data of an area by distorting geographic areas based on a thematic value related to that area. Here the visual variable *size* is used for the distortion visualisation. Area cartograms are also known by value-by-area maps. 
 
