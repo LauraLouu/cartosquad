@@ -104,7 +104,7 @@ The most important requirement on label placement is that no label overlaps each
 For every feature type – point, line and area – exist different rules each. 
 :::
 
-##### Points
+#### Points
 There are different approaches on how to label point objects, in this case Imhof’s (1962, 1975) will be focused on, as it seems to be the most used, as well as Räber & Jenny’s (2001), as I personally like it the most. 
 
 ::: tip Other approaches (in English) are given by:
@@ -122,7 +122,7 @@ Label placements on points should fulfil the following requirements to ensure re
 6. A dense accumulation is to be avoided.
 7. A neat arrangement is not aesthetically pleasing and should be avoided.
 
-##### Lines
+#### Lines
 
 1. A separation of label and line feature is to be avoided so that the connection between these two intuitively takes place. 
 2. Labels of line are placed alongside the feature itself while avoiding strong curvatures in the text’s path as it can reduce the legibility when letters get bend. 
@@ -130,7 +130,7 @@ Label placements on points should fulfil the following requirements to ensure re
 4. Obviously a crossing between label and feature is not wanted. 
 5. If it is a longer feature where one label does not seem sufficient, a second label can be placed in due distance. 
 
-##### Areas
+#### Areas
 
 1. The baseline runs along the longitudinal axis of the respective area.
 2. If possible, the text should be placed horizontally. 
