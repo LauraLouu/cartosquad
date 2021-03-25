@@ -93,7 +93,7 @@ Images coming soon.
 - font type
 - texture
 
-###Label Placement
+### Label Placement
 
 Placement of text is one of the most important parts in creating a map, because the written information connects the pictorial data for the map reader to decipher. The cartographic task of labelling and text placement requires careful instinct to guarantee quality and aesthetics while it is based on specific rules to guide on. In the further paragraphs an outline of these rules is given to give an orientation on how to label features and when to correct placements. 
 
@@ -104,38 +104,37 @@ The most important requirement on label placement is that no label overlaps each
 For every feature type – point, line and area – exist different rules each. 
 :::
 
-#####Points
+##### Points
 There are different approaches on how to label point objects, in this case Imhof’s (1962, 1975) will be focused on, as it seems to be the most used, as well as Räber & Jenny’s (2001), as I personally like it the most. 
 
-::: tip
-Other approaches (in English) are given by:
+::: tip Other approaches (in English) are given by:
 -	Yoeli, P. (1972): *The Logic of Automated Map Lettering*. Cartographic Journal, 9 (2), S. 99-108.
 -	Christensen, J., Marks, J. & Shieber, S. (1992): *Labeling Point Features on Maps and Diagrams*. Report TR-25-92, Harvard Computer Science Group.
 :::
 
 Label placements on points should fulfil the following requirements to ensure readability and quality:
 
-1.	The Text should be horizontal
-2.	Label should describe the object that is linked to it
-3.	features located at the coast maintain a label in the water
-4.	objects near boundaries maintain their label inside their own territory
-5.	labels should not overlap important map features
-6.	a dense accumulation is to be avoided
-7.	a neat arrangement is not aesthetically pleasing and should be avoided
+1. The Text should be horizontal.
+2. Label should describe the object that is linked to it
+3. features located at the coast maintain a label in the water
+4. objects near boundaries maintain their label inside their own territory
+5. labels should not overlap important map features
+6. A dense accumulation is to be avoided.
+7. A neat arrangement is not aesthetically pleasing and should be avoided.
 
 ##### Lines
 
-1.	A separation of label and line feature is to be avoided so that the connection between these two intuitively takes place. 
-2.	Labels of line are placed alongside the feature itself while avoiding strong curvatures in the text’s path as it can reduce the legibility when letters get bend. 
-3.	The placement of the label is favoured above the feature rather than beneath, because a connection between the baseline of the text and the line feature is created and pleasing to the eye. 
-4.	Obviously a crossing between label and feature is not wanted. 
-5.	If it is a longer feature where one label does not seem sufficient, a second label can be placed in due distance. 
+1. A separation of label and line feature is to be avoided so that the connection between these two intuitively takes place. 
+2. Labels of line are placed alongside the feature itself while avoiding strong curvatures in the text’s path as it can reduce the legibility when letters get bend. 
+3. The placement of the label is favoured above the feature rather than beneath, because a connection between the baseline of the text and the line feature is created and pleasing to the eye. 
+4. Obviously a crossing between label and feature is not wanted. 
+5. If it is a longer feature where one label does not seem sufficient, a second label can be placed in due distance. 
 
 ##### Areas
 
-1.	The baseline runs along the longitudinal axis of the respective area.
-2.	If possible, the text should be placed horizontally. 
-3.	Non-horizontal labels should be slightly curved and extended along the longitudinal axis. 
+1. The baseline runs along the longitudinal axis of the respective area.
+2. If possible, the text should be placed horizontally. 
+3. Non-horizontal labels should be slightly curved and extended along the longitudinal axis. 
 
 ## Ressources 
 
